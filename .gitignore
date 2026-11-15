@@ -1,0 +1,14 @@
+# local Spark runtime artifacts
+local/_warehouse/
+local/_metastore/
+metastore_db/
+derby.log
+spark-warehouse/
+# raw source data is distributed separately and must not be committed
+final_project_retail/
+*.zip
+# python
+__pycache__/
+.venv/
+*.pyc
+.DS_Store

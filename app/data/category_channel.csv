@@ -1,0 +1,73 @@
+invoice_year,Category,Channel,lines,return_lines,units,revenue
+2024,Apparel & Accessories,In-Store,26546,3113,39615,1019088.18
+2024,Apparel & Accessories,Mobile App,5234,1086,7166,183281.82
+2024,Apparel & Accessories,Online,16534,4166,21261,549263.25
+2024,Electronics Accessories,In-Store,22068,1933,32608,1195321.5
+2024,Electronics Accessories,Mobile App,4505,640,6336,229756.25
+2024,Electronics Accessories,Online,13819,2415,18481,683797.73
+2024,Food & Snacks,In-Store,21697,232,58036,455792.2
+2024,Food & Snacks,Mobile App,4222,77,10931,86781.95
+2024,Food & Snacks,Online,13672,301,36413,283218.43
+2024,Garden & Outdoor,In-Store,16914,682,26847,883022.44
+2024,Garden & Outdoor,Mobile App,3417,279,5462,172690.46
+2024,Garden & Outdoor,Online,10385,897,15943,518723.01
+2024,Gifts & Seasonal,In-Store,27526,954,55941,783811.41
+2024,Gifts & Seasonal,Mobile App,5517,339,10628,149379.51
+2024,Gifts & Seasonal,Online,17311,1281,34331,485611.09
+2024,Health & Wellness,In-Store,13800,472,25542,428091.35
+2024,Health & Wellness,Mobile App,2831,194,5080,87117.41
+2024,Health & Wellness,Online,8506,618,14905,251942.27
+2024,Home Décor,In-Store,26400,1431,51531,673460.91
+2024,Home Décor,Mobile App,5214,534,9811,131163.29
+2024,Home Décor,Online,16114,1871,30672,399373.0
+2024,Kitchen & Dining,In-Store,29712,1247,61688,899181.17
+2024,Kitchen & Dining,Mobile App,5889,405,11566,176144.27
+2024,Kitchen & Dining,Online,18812,1648,37953,552398.93
+2024,Personal Care,In-Store,21749,663,43323,550102.93
+2024,Personal Care,Mobile App,4431,226,8777,112445.93
+2024,Personal Care,Online,13627,819,26844,341106.22
+2024,Pet Supplies,In-Store,15180,428,29641,577182.28
+2024,Pet Supplies,Mobile App,2967,149,5617,106628.33
+2024,Pet Supplies,Online,9545,575,18356,354942.45
+2024,Stationery & Office,In-Store,17456,361,55452,343108.23
+2024,Stationery & Office,Mobile App,3431,126,10657,66864.02
+2024,Stationery & Office,Online,10831,455,33379,209939.86
+2024,Toys & Games,In-Store,22926,1091,41558,684873.33
+2024,Toys & Games,Mobile App,4623,400,8026,130960.73
+2024,Toys & Games,Online,14425,1488,24979,401895.72
+2025,Apparel & Accessories,In-Store,25696,3067,37708,969822.63
+2025,Apparel & Accessories,Mobile App,7217,1551,9788,247857.17
+2025,Apparel & Accessories,Online,17925,4411,23731,603477.43
+2025,Electronics Accessories,In-Store,21172,1772,30834,1121496.66
+2025,Electronics Accessories,Mobile App,6122,953,8403,300242.55
+2025,Electronics Accessories,Online,14844,2620,19947,747406.54
+2025,Food & Snacks,In-Store,20898,193,55099,430957.36
+2025,Food & Snacks,Mobile App,5924,105,15388,120383.13
+2025,Food & Snacks,Online,14863,320,39419,310002.51
+2025,Garden & Outdoor,In-Store,16042,651,25672,826071.3
+2025,Garden & Outdoor,Mobile App,4733,384,7370,238459.0
+2025,Garden & Outdoor,Online,11319,960,17419,564920.41
+2025,Gifts & Seasonal,In-Store,23863,840,47881,685637.47
+2025,Gifts & Seasonal,Mobile App,6916,402,13677,193469.52
+2025,Gifts & Seasonal,Online,16560,1193,32280,454784.15
+2025,Health & Wellness,In-Store,13504,449,24439,413689.33
+2025,Health & Wellness,Mobile App,3863,252,6947,114006.15
+2025,Health & Wellness,Online,9363,679,16891,285954.17
+2025,Home Décor,In-Store,25097,1364,49698,655349.75
+2025,Home Décor,Mobile App,7242,727,13600,182831.49
+2025,Home Décor,Online,17760,2095,32855,437307.62
+2025,Kitchen & Dining,In-Store,29144,1254,61245,885080.3
+2025,Kitchen & Dining,Mobile App,8363,641,16863,242248.4
+2025,Kitchen & Dining,Online,20237,1815,40884,596155.64
+2025,Personal Care,In-Store,20972,641,41856,534935.44
+2025,Personal Care,Mobile App,6034,285,11946,153106.65
+2025,Personal Care,Online,14542,871,28590,362577.26
+2025,Pet Supplies,In-Store,14665,404,29104,555484.46
+2025,Pet Supplies,Mobile App,4309,214,8400,158406.21
+2025,Pet Supplies,Online,10267,598,19582,386711.23
+2025,Stationery & Office,In-Store,16991,328,53178,332998.39
+2025,Stationery & Office,Mobile App,4821,186,14963,91926.21
+2025,Stationery & Office,Online,11949,533,37138,233742.77
+2025,Toys & Games,In-Store,22132,1111,39992,644406.06
+2025,Toys & Games,Mobile App,6359,519,11108,178923.91
+2025,Toys & Games,Online,15545,1556,26988,442764.72

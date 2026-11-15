@@ -1,0 +1,1441 @@
+StoreID,StoreName,Region,StoreType,invoice_year,invoice_month,monthly_revenue,lines,return_lines,return_rate,regional_median_revenue,vs_regional_median_pct
+S001,Boston Flagship,Northeast,Flagship,2024,1,40589.69,1292,102,0.0789,17982.17,125.72
+S001,Boston Flagship,Northeast,Flagship,2024,2,38231.6,1245,91,0.0731,15997.25,138.99
+S001,Boston Flagship,Northeast,Flagship,2024,3,47397.11,1465,105,0.0717,22085.0,114.61
+S001,Boston Flagship,Northeast,Flagship,2024,4,44494.81,1406,90,0.064,20507.62,116.97
+S001,Boston Flagship,Northeast,Flagship,2024,5,54270.01,1651,126,0.0763,23714.75,128.84
+S001,Boston Flagship,Northeast,Flagship,2024,6,48698.56,1504,105,0.0698,22102.14,120.33
+S001,Boston Flagship,Northeast,Flagship,2024,7,49851.29,1500,118,0.0787,23625.48,111.01
+S001,Boston Flagship,Northeast,Flagship,2024,8,50329.28,1578,111,0.0703,23275.32,116.23
+S001,Boston Flagship,Northeast,Flagship,2024,9,45592.09,1437,108,0.0752,19487.07,133.96
+S001,Boston Flagship,Northeast,Flagship,2024,10,49644.07,1595,99,0.0621,23466.03,111.56
+S001,Boston Flagship,Northeast,Flagship,2024,11,54279.62,1773,111,0.0626,27681.78,96.08
+S001,Boston Flagship,Northeast,Flagship,2024,12,77200.88,2557,173,0.0677,32157.57,140.07
+S001,Boston Flagship,Northeast,Flagship,2025,1,41342.25,1363,121,0.0888,18340.77,125.41
+S001,Boston Flagship,Northeast,Flagship,2025,2,41124.29,1307,89,0.0681,18048.92,127.85
+S001,Boston Flagship,Northeast,Flagship,2025,3,48020.95,1526,117,0.0767,22890.18,109.79
+S001,Boston Flagship,Northeast,Flagship,2025,4,52063.44,1609,103,0.064,23411.99,122.38
+S001,Boston Flagship,Northeast,Flagship,2025,5,53770.17,1759,138,0.0785,24182.61,122.35
+S001,Boston Flagship,Northeast,Flagship,2025,6,53540.27,1613,125,0.0775,22750.31,135.34
+S001,Boston Flagship,Northeast,Flagship,2025,7,49342.81,1528,110,0.072,21852.72,125.8
+S001,Boston Flagship,Northeast,Flagship,2025,8,44783.03,1521,127,0.0835,20904.43,114.23
+S001,Boston Flagship,Northeast,Flagship,2025,9,47665.91,1537,102,0.0664,21782.8,118.82
+S001,Boston Flagship,Northeast,Flagship,2025,10,57856.04,1720,126,0.0733,22287.84,159.59
+S001,Boston Flagship,Northeast,Flagship,2025,11,67068.55,2257,168,0.0744,30002.96,123.54
+S001,Boston Flagship,Northeast,Flagship,2025,12,69829.76,2330,193,0.0828,32246.61,116.55
+S002,New York Standard,Northeast,Standard,2024,1,17803.34,599,28,0.0467,17982.17,-0.99
+S002,New York Standard,Northeast,Standard,2024,2,20320.35,645,49,0.076,15997.25,27.02
+S002,New York Standard,Northeast,Standard,2024,3,24296.39,775,68,0.0877,22085.0,10.01
+S002,New York Standard,Northeast,Standard,2024,4,20557.78,631,36,0.0571,20507.62,0.24
+S002,New York Standard,Northeast,Standard,2024,5,26530.06,795,47,0.0591,23714.75,11.87
+S002,New York Standard,Northeast,Standard,2024,6,27818.28,824,59,0.0716,22102.14,25.86
+S002,New York Standard,Northeast,Standard,2024,7,26851.2,791,62,0.0784,23625.48,13.65
+S002,New York Standard,Northeast,Standard,2024,8,24867.12,757,49,0.0647,23275.32,6.84
+S002,New York Standard,Northeast,Standard,2024,9,17893.2,582,38,0.0653,19487.07,-8.18
+S002,New York Standard,Northeast,Standard,2024,10,24995.33,816,47,0.0576,23466.03,6.52
+S002,New York Standard,Northeast,Standard,2024,11,30267.2,971,83,0.0855,27681.78,9.34
+S002,New York Standard,Northeast,Standard,2024,12,34030.09,1164,87,0.0747,32157.57,5.82
+S002,New York Standard,Northeast,Standard,2025,1,19265.82,656,59,0.0899,18340.77,5.04
+S002,New York Standard,Northeast,Standard,2025,2,17063.79,600,36,0.06,18048.92,-5.46
+S002,New York Standard,Northeast,Standard,2025,3,26921.23,800,45,0.0563,22890.18,17.61
+S002,New York Standard,Northeast,Standard,2025,4,27285.95,843,49,0.0581,23411.99,16.55
+S002,New York Standard,Northeast,Standard,2025,5,27120.49,891,61,0.0685,24182.61,12.15
+S002,New York Standard,Northeast,Standard,2025,6,27131.86,809,58,0.0717,22750.31,19.26
+S002,New York Standard,Northeast,Standard,2025,7,24903.69,834,53,0.0635,21852.72,13.96
+S002,New York Standard,Northeast,Standard,2025,8,25444.25,806,47,0.0583,20904.43,21.72
+S002,New York Standard,Northeast,Standard,2025,9,24536.12,802,74,0.0923,21782.8,12.64
+S002,New York Standard,Northeast,Standard,2025,10,26170.23,871,55,0.0631,22287.84,17.42
+S002,New York Standard,Northeast,Standard,2025,11,36762.62,1069,84,0.0786,30002.96,22.53
+S002,New York Standard,Northeast,Standard,2025,12,35522.39,1209,95,0.0786,32246.61,10.16
+S003,Philadelphia Outlet,Northeast,Outlet,2024,1,17443.08,579,35,0.0604,17982.17,-3.0
+S003,Philadelphia Outlet,Northeast,Outlet,2024,2,10656.47,374,40,0.107,15997.25,-33.39
+S003,Philadelphia Outlet,Northeast,Outlet,2024,3,15792.3,524,41,0.0782,22085.0,-28.49
+S003,Philadelphia Outlet,Northeast,Outlet,2024,4,19122.1,639,35,0.0548,20507.62,-6.76
+S003,Philadelphia Outlet,Northeast,Outlet,2024,5,24176.82,773,37,0.0479,23714.75,1.95
+S003,Philadelphia Outlet,Northeast,Outlet,2024,6,17945.68,575,41,0.0713,22102.14,-18.81
+S003,Philadelphia Outlet,Northeast,Outlet,2024,7,18288.74,580,36,0.0621,23625.48,-22.59
+S003,Philadelphia Outlet,Northeast,Outlet,2024,8,18613.01,559,33,0.059,23275.32,-20.03
+S003,Philadelphia Outlet,Northeast,Outlet,2024,9,18728.48,617,33,0.0535,19487.07,-3.89
+S003,Philadelphia Outlet,Northeast,Outlet,2024,10,18748.4,605,42,0.0694,23466.03,-20.1
+S003,Philadelphia Outlet,Northeast,Outlet,2024,11,23677.33,811,54,0.0666,27681.78,-14.47
+S003,Philadelphia Outlet,Northeast,Outlet,2024,12,30827.24,958,70,0.0731,32157.57,-4.14
+S003,Philadelphia Outlet,Northeast,Outlet,2025,1,16047.0,514,31,0.0603,18340.77,-12.51
+S003,Philadelphia Outlet,Northeast,Outlet,2025,2,18599.03,542,29,0.0535,18048.92,3.05
+S003,Philadelphia Outlet,Northeast,Outlet,2025,3,20556.33,683,53,0.0776,22890.18,-10.2
+S003,Philadelphia Outlet,Northeast,Outlet,2025,4,21312.87,660,44,0.0667,23411.99,-8.97
+S003,Philadelphia Outlet,Northeast,Outlet,2025,5,23169.49,673,45,0.0669,24182.61,-4.19
+S003,Philadelphia Outlet,Northeast,Outlet,2025,6,23447.03,686,49,0.0714,22750.31,3.06
+S003,Philadelphia Outlet,Northeast,Outlet,2025,7,19742.08,566,42,0.0742,21852.72,-9.66
+S003,Philadelphia Outlet,Northeast,Outlet,2025,8,19867.34,611,39,0.0638,20904.43,-4.96
+S003,Philadelphia Outlet,Northeast,Outlet,2025,9,17946.99,617,61,0.0989,21782.8,-17.61
+S003,Philadelphia Outlet,Northeast,Outlet,2025,10,20141.61,575,46,0.08,22287.84,-9.63
+S003,Philadelphia Outlet,Northeast,Outlet,2025,11,22567.39,771,64,0.083,30002.96,-24.78
+S003,Philadelphia Outlet,Northeast,Outlet,2025,12,27721.94,958,64,0.0668,32246.61,-14.03
+S004,Hartford Express,Northeast,Express,2024,1,6975.74,232,15,0.0647,17982.17,-61.21
+S004,Hartford Express,Northeast,Express,2024,2,9573.96,223,14,0.0628,15997.25,-40.15
+S004,Hartford Express,Northeast,Express,2024,3,9963.79,302,17,0.0563,22085.0,-54.88
+S004,Hartford Express,Northeast,Express,2024,4,8810.39,263,10,0.038,20507.62,-57.04
+S004,Hartford Express,Northeast,Express,2024,5,8814.7,297,23,0.0774,23714.75,-62.83
+S004,Hartford Express,Northeast,Express,2024,6,10463.23,300,23,0.0767,22102.14,-52.66
+S004,Hartford Express,Northeast,Express,2024,7,7365.07,232,22,0.0948,23625.48,-68.83
+S004,Hartford Express,Northeast,Express,2024,8,11233.03,333,23,0.0691,23275.32,-51.74
+S004,Hartford Express,Northeast,Express,2024,9,11322.75,346,15,0.0434,19487.07,-41.9
+S004,Hartford Express,Northeast,Express,2024,10,10964.4,324,29,0.0895,23466.03,-53.28
+S004,Hartford Express,Northeast,Express,2024,11,13548.15,415,30,0.0723,27681.78,-51.06
+S004,Hartford Express,Northeast,Express,2024,12,11888.68,435,39,0.0897,32157.57,-63.03
+S004,Hartford Express,Northeast,Express,2025,1,6415.36,221,17,0.0769,18340.77,-65.02
+S004,Hartford Express,Northeast,Express,2025,2,7291.91,221,11,0.0498,18048.92,-59.6
+S004,Hartford Express,Northeast,Express,2025,3,11609.19,378,20,0.0529,22890.18,-49.28
+S004,Hartford Express,Northeast,Express,2025,4,8794.66,270,22,0.0815,23411.99,-62.44
+S004,Hartford Express,Northeast,Express,2025,5,7178.47,231,14,0.0606,24182.61,-70.32
+S004,Hartford Express,Northeast,Express,2025,6,10468.02,352,22,0.0625,22750.31,-53.99
+S004,Hartford Express,Northeast,Express,2025,7,10671.48,372,34,0.0914,21852.72,-51.17
+S004,Hartford Express,Northeast,Express,2025,8,9473.55,319,26,0.0815,20904.43,-54.68
+S004,Hartford Express,Northeast,Express,2025,9,8634.63,260,25,0.0962,21782.8,-60.36
+S004,Hartford Express,Northeast,Express,2025,10,9968.68,353,25,0.0708,22287.84,-55.27
+S004,Hartford Express,Northeast,Express,2025,11,15286.59,469,33,0.0704,30002.96,-49.05
+S004,Hartford Express,Northeast,Express,2025,12,11791.35,400,28,0.07,32246.61,-63.43
+S005,Providence Standard,Northeast,Standard,2024,1,15836.45,527,38,0.0721,17982.17,-11.93
+S005,Providence Standard,Northeast,Standard,2024,2,13878.42,488,33,0.0676,15997.25,-13.24
+S005,Providence Standard,Northeast,Standard,2024,3,24751.14,743,51,0.0686,22085.0,12.07
+S005,Providence Standard,Northeast,Standard,2024,4,15144.36,485,34,0.0701,20507.62,-26.15
+S005,Providence Standard,Northeast,Standard,2024,5,26197.34,684,49,0.0716,23714.75,10.47
+S005,Providence Standard,Northeast,Standard,2024,6,19166.86,625,53,0.0848,22102.14,-13.28
+S005,Providence Standard,Northeast,Standard,2024,7,24282.64,762,54,0.0709,23625.48,2.78
+S005,Providence Standard,Northeast,Standard,2024,8,21444.77,669,46,0.0688,23275.32,-7.86
+S005,Providence Standard,Northeast,Standard,2024,9,19463.03,595,52,0.0874,19487.07,-0.12
+S005,Providence Standard,Northeast,Standard,2024,10,23628.19,696,55,0.079,23466.03,0.69
+S005,Providence Standard,Northeast,Standard,2024,11,23994.01,796,56,0.0704,27681.78,-13.32
+S005,Providence Standard,Northeast,Standard,2024,12,30296.9,1038,62,0.0597,32157.57,-5.79
+S005,Providence Standard,Northeast,Standard,2025,1,15267.47,497,25,0.0503,18340.77,-16.76
+S005,Providence Standard,Northeast,Standard,2025,2,16691.78,508,31,0.061,18048.92,-7.52
+S005,Providence Standard,Northeast,Standard,2025,3,21948.33,675,55,0.0815,22890.18,-4.11
+S005,Providence Standard,Northeast,Standard,2025,4,22986.34,612,47,0.0768,23411.99,-1.82
+S005,Providence Standard,Northeast,Standard,2025,5,20485.97,638,51,0.0799,24182.61,-15.29
+S005,Providence Standard,Northeast,Standard,2025,6,19060.27,622,40,0.0643,22750.31,-16.22
+S005,Providence Standard,Northeast,Standard,2025,7,19497.92,623,51,0.0819,21852.72,-10.78
+S005,Providence Standard,Northeast,Standard,2025,8,20258.29,674,55,0.0816,20904.43,-3.09
+S005,Providence Standard,Northeast,Standard,2025,9,22309.64,730,58,0.0795,21782.8,2.42
+S005,Providence Standard,Northeast,Standard,2025,10,20204.95,690,48,0.0696,22287.84,-9.35
+S005,Providence Standard,Northeast,Standard,2025,11,24613.35,769,56,0.0728,30002.96,-17.96
+S005,Providence Standard,Northeast,Standard,2025,12,25127.98,875,66,0.0754,32246.61,-22.08
+S006,Newark Standard,Northeast,Standard,2024,1,18913.41,603,35,0.058,17982.17,5.18
+S006,Newark Standard,Northeast,Standard,2024,2,14963.56,478,25,0.0523,15997.25,-6.46
+S006,Newark Standard,Northeast,Standard,2024,3,20625.15,637,51,0.0801,22085.0,-6.61
+S006,Newark Standard,Northeast,Standard,2024,4,25271.58,756,58,0.0767,20507.62,23.23
+S006,Newark Standard,Northeast,Standard,2024,5,21883.17,673,53,0.0788,23714.75,-7.72
+S006,Newark Standard,Northeast,Standard,2024,6,18640.35,601,39,0.0649,22102.14,-15.66
+S006,Newark Standard,Northeast,Standard,2024,7,24760.87,680,39,0.0574,23625.48,4.81
+S006,Newark Standard,Northeast,Standard,2024,8,24326.0,735,49,0.0667,23275.32,4.51
+S006,Newark Standard,Northeast,Standard,2024,9,18810.15,595,41,0.0689,19487.07,-3.47
+S006,Newark Standard,Northeast,Standard,2024,10,20602.0,645,52,0.0806,23466.03,-12.21
+S006,Newark Standard,Northeast,Standard,2024,11,29381.73,947,64,0.0676,27681.78,6.14
+S006,Newark Standard,Northeast,Standard,2024,12,34459.15,1087,84,0.0773,32157.57,7.16
+S006,Newark Standard,Northeast,Standard,2025,1,16141.31,553,35,0.0633,18340.77,-11.99
+S006,Newark Standard,Northeast,Standard,2025,2,17910.64,565,33,0.0584,18048.92,-0.77
+S006,Newark Standard,Northeast,Standard,2025,3,19556.17,680,57,0.0838,22890.18,-14.57
+S006,Newark Standard,Northeast,Standard,2025,4,24407.06,696,56,0.0805,23411.99,4.25
+S006,Newark Standard,Northeast,Standard,2025,5,28564.26,859,63,0.0733,24182.61,18.12
+S006,Newark Standard,Northeast,Standard,2025,6,30040.69,738,48,0.065,22750.31,32.05
+S006,Newark Standard,Northeast,Standard,2025,7,20753.55,646,45,0.0697,21852.72,-5.03
+S006,Newark Standard,Northeast,Standard,2025,8,19887.07,663,37,0.0558,20904.43,-4.87
+S006,Newark Standard,Northeast,Standard,2025,9,18722.42,614,49,0.0798,21782.8,-14.05
+S006,Newark Standard,Northeast,Standard,2025,10,23612.18,777,57,0.0734,22287.84,5.94
+S006,Newark Standard,Northeast,Standard,2025,11,29593.63,939,59,0.0628,30002.96,-1.36
+S006,Newark Standard,Northeast,Standard,2025,12,30823.77,1077,92,0.0854,32246.61,-4.41
+S007,Boston Standard 2,Northeast,Standard,2024,1,18161.0,565,41,0.0726,17982.17,0.99
+S007,Boston Standard 2,Northeast,Standard,2024,2,15583.95,498,43,0.0863,15997.25,-2.58
+S007,Boston Standard 2,Northeast,Standard,2024,3,22559.79,733,46,0.0628,22085.0,2.15
+S007,Boston Standard 2,Northeast,Standard,2024,4,20457.46,653,53,0.0812,20507.62,-0.24
+S007,Boston Standard 2,Northeast,Standard,2024,5,24050.21,754,49,0.065,23714.75,1.41
+S007,Boston Standard 2,Northeast,Standard,2024,6,22923.91,726,42,0.0579,22102.14,3.72
+S007,Boston Standard 2,Northeast,Standard,2024,7,23377.28,732,46,0.0628,23625.48,-1.05
+S007,Boston Standard 2,Northeast,Standard,2024,8,26336.65,784,55,0.0702,23275.32,13.15
+S007,Boston Standard 2,Northeast,Standard,2024,9,25397.41,750,62,0.0827,19487.07,30.33
+S007,Boston Standard 2,Northeast,Standard,2024,10,19059.93,590,44,0.0746,23466.03,-18.78
+S007,Boston Standard 2,Northeast,Standard,2024,11,27375.56,914,61,0.0667,27681.78,-1.11
+S007,Boston Standard 2,Northeast,Standard,2024,12,34274.04,1127,74,0.0657,32157.57,6.58
+S007,Boston Standard 2,Northeast,Standard,2025,1,17363.09,571,33,0.0578,18340.77,-5.33
+S007,Boston Standard 2,Northeast,Standard,2025,2,18187.19,627,55,0.0877,18048.92,0.77
+S007,Boston Standard 2,Northeast,Standard,2025,3,22562.82,718,55,0.0766,22890.18,-1.43
+S007,Boston Standard 2,Northeast,Standard,2025,4,24341.87,779,57,0.0732,23411.99,3.97
+S007,Boston Standard 2,Northeast,Standard,2025,5,22421.97,643,46,0.0715,24182.61,-7.28
+S007,Boston Standard 2,Northeast,Standard,2025,6,22752.53,770,49,0.0636,22750.31,0.01
+S007,Boston Standard 2,Northeast,Standard,2025,7,19206.48,622,47,0.0756,21852.72,-12.11
+S007,Boston Standard 2,Northeast,Standard,2025,8,19367.41,626,42,0.0671,20904.43,-7.35
+S007,Boston Standard 2,Northeast,Standard,2025,9,18963.41,641,42,0.0655,21782.8,-12.94
+S007,Boston Standard 2,Northeast,Standard,2025,10,22253.3,722,36,0.0499,22287.84,-0.15
+S007,Boston Standard 2,Northeast,Standard,2025,11,31605.86,1009,83,0.0823,30002.96,5.34
+S007,Boston Standard 2,Northeast,Standard,2025,12,32412.34,1073,95,0.0885,32246.61,0.51
+S008,New York Standard 2,Northeast,Standard,2024,1,13806.82,464,38,0.0819,17982.17,-23.22
+S008,New York Standard 2,Northeast,Standard,2024,2,14821.85,503,28,0.0557,15997.25,-7.35
+S008,New York Standard 2,Northeast,Standard,2024,3,20078.51,646,48,0.0743,22085.0,-9.09
+S008,New York Standard 2,Northeast,Standard,2024,4,17525.13,527,40,0.0759,20507.62,-14.54
+S008,New York Standard 2,Northeast,Standard,2024,5,21579.94,616,47,0.0763,23714.75,-9.0
+S008,New York Standard 2,Northeast,Standard,2024,6,18481.11,555,37,0.0667,22102.14,-16.38
+S008,New York Standard 2,Northeast,Standard,2024,7,18711.53,542,49,0.0904,23625.48,-20.8
+S008,New York Standard 2,Northeast,Standard,2024,8,17013.77,536,42,0.0784,23275.32,-26.9
+S008,New York Standard 2,Northeast,Standard,2024,9,18009.27,586,38,0.0648,19487.07,-7.58
+S008,New York Standard 2,Northeast,Standard,2024,10,18515.33,652,56,0.0859,23466.03,-21.1
+S008,New York Standard 2,Northeast,Standard,2024,11,21704.33,733,37,0.0505,27681.78,-21.59
+S008,New York Standard 2,Northeast,Standard,2024,12,23415.48,817,50,0.0612,32157.57,-27.19
+S008,New York Standard 2,Northeast,Standard,2025,1,15063.51,493,30,0.0609,18340.77,-17.87
+S008,New York Standard 2,Northeast,Standard,2025,2,20134.86,546,39,0.0714,18048.92,11.56
+S008,New York Standard 2,Northeast,Standard,2025,3,21303.32,717,57,0.0795,22890.18,-6.93
+S008,New York Standard 2,Northeast,Standard,2025,4,19440.48,577,30,0.052,23411.99,-16.96
+S008,New York Standard 2,Northeast,Standard,2025,5,22529.4,695,52,0.0748,24182.61,-6.84
+S008,New York Standard 2,Northeast,Standard,2025,6,21805.72,675,46,0.0681,22750.31,-4.15
+S008,New York Standard 2,Northeast,Standard,2025,7,17958.11,636,48,0.0755,21852.72,-17.82
+S008,New York Standard 2,Northeast,Standard,2025,8,18601.8,581,41,0.0706,20904.43,-11.02
+S008,New York Standard 2,Northeast,Standard,2025,9,18754.03,675,58,0.0859,21782.8,-13.9
+S008,New York Standard 2,Northeast,Standard,2025,10,21148.53,686,51,0.0743,22287.84,-5.11
+S008,New York Standard 2,Northeast,Standard,2025,11,25380.61,804,52,0.0647,30002.96,-15.41
+S008,New York Standard 2,Northeast,Standard,2025,12,25592.93,824,49,0.0595,32246.61,-20.63
+S009,Philadelphia Standard 2,Northeast,Standard,2024,1,18622.72,605,53,0.0876,17982.17,3.56
+S009,Philadelphia Standard 2,Northeast,Standard,2024,2,16410.55,564,42,0.0745,15997.25,2.58
+S009,Philadelphia Standard 2,Northeast,Standard,2024,3,21859.5,698,34,0.0487,22085.0,-1.02
+S009,Philadelphia Standard 2,Northeast,Standard,2024,4,24308.8,767,49,0.0639,20507.62,18.54
+S009,Philadelphia Standard 2,Northeast,Standard,2024,5,24213.55,751,46,0.0613,23714.75,2.1
+S009,Philadelphia Standard 2,Northeast,Standard,2024,6,22337.39,715,47,0.0657,22102.14,1.06
+S009,Philadelphia Standard 2,Northeast,Standard,2024,7,28188.86,805,54,0.0671,23625.48,19.32
+S009,Philadelphia Standard 2,Northeast,Standard,2024,8,22887.47,756,57,0.0754,23275.32,-1.67
+S009,Philadelphia Standard 2,Northeast,Standard,2024,9,20309.02,689,47,0.0682,19487.07,4.22
+S009,Philadelphia Standard 2,Northeast,Standard,2024,10,21928.29,711,51,0.0717,23466.03,-6.55
+S009,Philadelphia Standard 2,Northeast,Standard,2024,11,27696.74,867,56,0.0646,27681.78,0.05
+S009,Philadelphia Standard 2,Northeast,Standard,2024,12,29400.05,994,77,0.0775,32157.57,-8.58
+S009,Philadelphia Standard 2,Northeast,Standard,2025,1,21594.43,651,40,0.0614,18340.77,17.74
+S009,Philadelphia Standard 2,Northeast,Standard,2025,2,18757.53,638,48,0.0752,18048.92,3.93
+S009,Philadelphia Standard 2,Northeast,Standard,2025,3,23217.54,724,66,0.0912,22890.18,1.43
+S009,Philadelphia Standard 2,Northeast,Standard,2025,4,23093.47,710,41,0.0577,23411.99,-1.36
+S009,Philadelphia Standard 2,Northeast,Standard,2025,5,23791.34,768,64,0.0833,24182.61,-1.62
+S009,Philadelphia Standard 2,Northeast,Standard,2025,6,22397.27,689,57,0.0827,22750.31,-1.55
+S009,Philadelphia Standard 2,Northeast,Standard,2025,7,24721.57,789,64,0.0811,21852.72,13.13
+S009,Philadelphia Standard 2,Northeast,Standard,2025,8,22976.01,731,50,0.0684,20904.43,9.91
+S009,Philadelphia Standard 2,Northeast,Standard,2025,9,27736.9,790,46,0.0582,21782.8,27.33
+S009,Philadelphia Standard 2,Northeast,Standard,2025,10,27480.54,870,80,0.092,22287.84,23.3
+S009,Philadelphia Standard 2,Northeast,Standard,2025,11,31862.4,1020,89,0.0873,30002.96,6.2
+S009,Philadelphia Standard 2,Northeast,Standard,2025,12,37702.16,1234,90,0.0729,32246.61,16.92
+S010,Hartford Standard 2,Northeast,Standard,2024,1,20361.83,656,39,0.0595,17982.17,13.23
+S010,Hartford Standard 2,Northeast,Standard,2024,2,17919.49,615,36,0.0585,15997.25,12.02
+S010,Hartford Standard 2,Northeast,Standard,2024,3,28906.68,926,64,0.0691,22085.0,30.89
+S010,Hartford Standard 2,Northeast,Standard,2024,4,25097.64,778,44,0.0566,20507.62,22.38
+S010,Hartford Standard 2,Northeast,Standard,2024,5,28255.92,810,48,0.0593,23714.75,19.15
+S010,Hartford Standard 2,Northeast,Standard,2024,6,29370.27,894,57,0.0638,22102.14,32.88
+S010,Hartford Standard 2,Northeast,Standard,2024,7,24618.71,770,41,0.0532,23625.48,4.2
+S010,Hartford Standard 2,Northeast,Standard,2024,8,28901.83,852,69,0.081,23275.32,24.17
+S010,Hartford Standard 2,Northeast,Standard,2024,9,21679.95,749,51,0.0681,19487.07,11.25
+S010,Hartford Standard 2,Northeast,Standard,2024,10,23761.7,799,46,0.0576,23466.03,1.26
+S010,Hartford Standard 2,Northeast,Standard,2024,11,29679.75,991,81,0.0817,27681.78,7.22
+S010,Hartford Standard 2,Northeast,Standard,2024,12,43439.85,1375,108,0.0785,32157.57,35.08
+S010,Hartford Standard 2,Northeast,Standard,2025,1,25960.91,793,65,0.082,18340.77,41.55
+S010,Hartford Standard 2,Northeast,Standard,2025,2,20753.28,655,39,0.0595,18048.92,14.98
+S010,Hartford Standard 2,Northeast,Standard,2025,3,30895.61,918,62,0.0675,22890.18,34.97
+S010,Hartford Standard 2,Northeast,Standard,2025,4,22341.72,767,65,0.0847,23411.99,-4.57
+S010,Hartford Standard 2,Northeast,Standard,2025,5,32656.04,960,49,0.051,24182.61,35.04
+S010,Hartford Standard 2,Northeast,Standard,2025,6,26096.81,786,53,0.0674,22750.31,14.71
+S010,Hartford Standard 2,Northeast,Standard,2025,7,26140.51,873,57,0.0653,21852.72,19.62
+S010,Hartford Standard 2,Northeast,Standard,2025,8,26413.97,811,54,0.0666,20904.43,26.36
+S010,Hartford Standard 2,Northeast,Standard,2025,9,24932.26,770,52,0.0675,21782.8,14.46
+S010,Hartford Standard 2,Northeast,Standard,2025,10,31313.01,990,76,0.0768,22287.84,40.49
+S010,Hartford Standard 2,Northeast,Standard,2025,11,30787.83,1038,89,0.0857,30002.96,2.62
+S010,Hartford Standard 2,Northeast,Standard,2025,12,38930.31,1155,71,0.0615,32246.61,20.73
+S011,Providence Standard 2,Northeast,Standard,2024,1,19995.41,575,50,0.087,17982.17,11.2
+S011,Providence Standard 2,Northeast,Standard,2024,2,19726.28,642,51,0.0794,15997.25,23.31
+S011,Providence Standard 2,Northeast,Standard,2024,3,21717.38,746,64,0.0858,22085.0,-1.66
+S011,Providence Standard 2,Northeast,Standard,2024,4,30520.69,798,56,0.0702,20507.62,48.83
+S011,Providence Standard 2,Northeast,Standard,2024,5,23161.32,729,46,0.0631,23714.75,-2.33
+S011,Providence Standard 2,Northeast,Standard,2024,6,21866.88,727,55,0.0757,22102.14,-1.06
+S011,Providence Standard 2,Northeast,Standard,2024,7,21797.05,683,44,0.0644,23625.48,-7.74
+S011,Providence Standard 2,Northeast,Standard,2024,8,23047.51,695,42,0.0604,23275.32,-0.98
+S011,Providence Standard 2,Northeast,Standard,2024,9,22915.72,735,44,0.0599,19487.07,17.59
+S011,Providence Standard 2,Northeast,Standard,2024,10,27244.07,808,58,0.0718,23466.03,16.1
+S011,Providence Standard 2,Northeast,Standard,2024,11,32179.8,1023,85,0.0831,27681.78,16.25
+S011,Providence Standard 2,Northeast,Standard,2024,12,30756.13,1061,68,0.0641,32157.57,-4.36
+S011,Providence Standard 2,Northeast,Standard,2025,1,19323.15,651,42,0.0645,18340.77,5.36
+S011,Providence Standard 2,Northeast,Standard,2025,2,19623.36,616,36,0.0584,18048.92,8.72
+S011,Providence Standard 2,Northeast,Standard,2025,3,23814.14,791,54,0.0683,22890.18,4.04
+S011,Providence Standard 2,Northeast,Standard,2025,4,23813.82,797,61,0.0765,23411.99,1.72
+S011,Providence Standard 2,Northeast,Standard,2025,5,23471.9,786,54,0.0687,24182.61,-2.94
+S011,Providence Standard 2,Northeast,Standard,2025,6,30871.55,823,57,0.0693,22750.31,35.7
+S011,Providence Standard 2,Northeast,Standard,2025,7,29174.85,910,60,0.0659,21852.72,33.51
+S011,Providence Standard 2,Northeast,Standard,2025,8,21476.44,729,56,0.0768,20904.43,2.74
+S011,Providence Standard 2,Northeast,Standard,2025,9,26250.91,811,61,0.0752,21782.8,20.51
+S011,Providence Standard 2,Northeast,Standard,2025,10,24744.46,862,70,0.0812,22287.84,11.02
+S011,Providence Standard 2,Northeast,Standard,2025,11,29014.82,962,57,0.0593,30002.96,-3.29
+S011,Providence Standard 2,Northeast,Standard,2025,12,32080.89,1069,72,0.0674,32246.61,-0.51
+S012,Newark Standard 2,Northeast,Standard,2024,1,16605.4,507,30,0.0592,17982.17,-7.66
+S012,Newark Standard 2,Northeast,Standard,2024,2,19744.61,559,39,0.0698,15997.25,23.43
+S012,Newark Standard 2,Northeast,Standard,2024,3,20600.13,662,54,0.0816,22085.0,-6.72
+S012,Newark Standard 2,Northeast,Standard,2024,4,20352.39,595,44,0.0739,20507.62,-0.76
+S012,Newark Standard 2,Northeast,Standard,2024,5,23379.3,707,57,0.0806,23714.75,-1.41
+S012,Newark Standard 2,Northeast,Standard,2024,6,20738.95,678,50,0.0737,22102.14,-6.17
+S012,Newark Standard 2,Northeast,Standard,2024,7,21078.81,641,37,0.0577,23625.48,-10.78
+S012,Newark Standard 2,Northeast,Standard,2024,8,21964.55,654,52,0.0795,23275.32,-5.63
+S012,Newark Standard 2,Northeast,Standard,2024,9,18916.61,554,39,0.0704,19487.07,-2.93
+S012,Newark Standard 2,Northeast,Standard,2024,10,23303.87,675,42,0.0622,23466.03,-0.69
+S012,Newark Standard 2,Northeast,Standard,2024,11,27666.81,864,67,0.0775,27681.78,-0.05
+S012,Newark Standard 2,Northeast,Standard,2024,12,34683.31,1068,66,0.0618,32157.57,7.85
+S012,Newark Standard 2,Northeast,Standard,2025,1,18885.38,582,38,0.0653,18340.77,2.97
+S012,Newark Standard 2,Northeast,Standard,2025,2,14975.69,489,26,0.0532,18048.92,-17.03
+S012,Newark Standard 2,Northeast,Standard,2025,3,25148.52,787,65,0.0826,22890.18,9.87
+S012,Newark Standard 2,Northeast,Standard,2025,4,23730.5,703,45,0.064,23411.99,1.36
+S012,Newark Standard 2,Northeast,Standard,2025,5,29583.86,910,63,0.0692,24182.61,22.34
+S012,Newark Standard 2,Northeast,Standard,2025,6,21476.92,715,56,0.0783,22750.31,-5.6
+S012,Newark Standard 2,Northeast,Standard,2025,7,22951.88,728,52,0.0714,21852.72,5.03
+S012,Newark Standard 2,Northeast,Standard,2025,8,24557.68,708,43,0.0607,20904.43,17.48
+S012,Newark Standard 2,Northeast,Standard,2025,9,20476.06,647,51,0.0788,21782.8,-6.0
+S012,Newark Standard 2,Northeast,Standard,2025,10,20314.14,646,47,0.0728,22287.84,-8.86
+S012,Newark Standard 2,Northeast,Standard,2025,11,26274.29,894,58,0.0649,30002.96,-12.43
+S012,Newark Standard 2,Northeast,Standard,2025,12,32917.61,1038,93,0.0896,32246.61,2.08
+S013,Boston Standard 3,Northeast,Standard,2024,1,17004.84,554,47,0.0848,17982.17,-5.43
+S013,Boston Standard 3,Northeast,Standard,2024,2,14192.54,481,36,0.0748,15997.25,-11.28
+S013,Boston Standard 3,Northeast,Standard,2024,3,24908.95,648,37,0.0571,22085.0,12.79
+S013,Boston Standard 3,Northeast,Standard,2024,4,17243.95,589,50,0.0849,20507.62,-15.91
+S013,Boston Standard 3,Northeast,Standard,2024,5,23055.03,696,45,0.0647,23714.75,-2.78
+S013,Boston Standard 3,Northeast,Standard,2024,6,22995.67,703,41,0.0583,22102.14,4.04
+S013,Boston Standard 3,Northeast,Standard,2024,7,23873.68,744,41,0.0551,23625.48,1.05
+S013,Boston Standard 3,Northeast,Standard,2024,8,26762.65,842,56,0.0665,23275.32,14.98
+S013,Boston Standard 3,Northeast,Standard,2024,9,20649.61,662,52,0.0785,19487.07,5.97
+S013,Boston Standard 3,Northeast,Standard,2024,10,23958.06,836,61,0.073,23466.03,2.1
+S013,Boston Standard 3,Northeast,Standard,2024,11,28373.36,896,59,0.0658,27681.78,2.5
+S013,Boston Standard 3,Northeast,Standard,2024,12,32135.59,1079,62,0.0575,32157.57,-0.07
+S013,Boston Standard 3,Northeast,Standard,2025,1,20716.71,621,35,0.0564,18340.77,12.95
+S013,Boston Standard 3,Northeast,Standard,2025,2,17174.19,572,43,0.0752,18048.92,-4.85
+S013,Boston Standard 3,Northeast,Standard,2025,3,25351.36,845,64,0.0757,22890.18,10.75
+S013,Boston Standard 3,Northeast,Standard,2025,4,25865.01,691,59,0.0854,23411.99,10.48
+S013,Boston Standard 3,Northeast,Standard,2025,5,27883.41,872,58,0.0665,24182.61,15.3
+S013,Boston Standard 3,Northeast,Standard,2025,6,22665.39,722,42,0.0582,22750.31,-0.37
+S013,Boston Standard 3,Northeast,Standard,2025,7,20424.9,702,47,0.067,21852.72,-6.53
+S013,Boston Standard 3,Northeast,Standard,2025,8,20332.41,656,45,0.0686,20904.43,-2.74
+S013,Boston Standard 3,Northeast,Standard,2025,9,21436.88,685,44,0.0642,21782.8,-1.59
+S013,Boston Standard 3,Northeast,Standard,2025,10,21670.65,671,47,0.07,22287.84,-2.77
+S013,Boston Standard 3,Northeast,Standard,2025,11,30419.25,951,71,0.0747,30002.96,1.39
+S013,Boston Standard 3,Northeast,Standard,2025,12,23473.0,852,74,0.0869,32246.61,-27.21
+S014,New York Standard 3,Northeast,Standard,2024,1,19353.05,534,45,0.0843,17982.17,7.62
+S014,New York Standard 3,Northeast,Standard,2024,2,19391.91,644,53,0.0823,15997.25,21.22
+S014,New York Standard 3,Northeast,Standard,2024,3,22310.5,684,45,0.0658,22085.0,1.02
+S014,New York Standard 3,Northeast,Standard,2024,4,24731.67,764,44,0.0576,20507.62,20.6
+S014,New York Standard 3,Northeast,Standard,2024,5,20913.97,648,33,0.0509,23714.75,-11.81
+S014,New York Standard 3,Northeast,Standard,2024,6,22642.05,684,48,0.0702,22102.14,2.44
+S014,New York Standard 3,Northeast,Standard,2024,7,18916.99,612,44,0.0719,23625.48,-19.93
+S014,New York Standard 3,Northeast,Standard,2024,8,23503.13,750,55,0.0733,23275.32,0.98
+S014,New York Standard 3,Northeast,Standard,2024,9,19511.12,634,56,0.0883,19487.07,0.12
+S014,New York Standard 3,Northeast,Standard,2024,10,25338.51,765,52,0.068,23466.03,7.98
+S014,New York Standard 3,Northeast,Standard,2024,11,22198.78,765,40,0.0523,27681.78,-19.81
+S014,New York Standard 3,Northeast,Standard,2024,12,32179.55,1049,79,0.0753,32157.57,0.07
+S014,New York Standard 3,Northeast,Standard,2025,1,17796.16,538,37,0.0688,18340.77,-2.97
+S014,New York Standard 3,Northeast,Standard,2025,2,17360.81,583,40,0.0686,18048.92,-3.81
+S014,New York Standard 3,Northeast,Standard,2025,3,18885.72,617,56,0.0908,22890.18,-17.49
+S014,New York Standard 3,Northeast,Standard,2025,4,17961.96,575,33,0.0574,23411.99,-23.28
+S014,New York Standard 3,Northeast,Standard,2025,5,24573.89,795,43,0.0541,24182.61,1.62
+S014,New York Standard 3,Northeast,Standard,2025,6,22748.08,740,48,0.0649,22750.31,-0.01
+S014,New York Standard 3,Northeast,Standard,2025,7,23175.05,746,51,0.0684,21852.72,6.05
+S014,New York Standard 3,Northeast,Standard,2025,8,22944.2,699,50,0.0715,20904.43,9.76
+S014,New York Standard 3,Northeast,Standard,2025,9,22128.71,734,64,0.0872,21782.8,1.59
+S014,New York Standard 3,Northeast,Standard,2025,10,22322.37,752,52,0.0691,22287.84,0.15
+S014,New York Standard 3,Northeast,Standard,2025,11,30412.29,1056,71,0.0672,30002.96,1.36
+S014,New York Standard 3,Northeast,Standard,2025,12,32846.16,1121,92,0.0821,32246.61,1.86
+S015,Atlanta Flagship,Southeast,Flagship,2024,1,34170.33,1162,84,0.0723,15245.69,124.13
+S015,Atlanta Flagship,Southeast,Flagship,2024,2,35574.57,1188,74,0.0623,14404.21,146.97
+S015,Atlanta Flagship,Southeast,Flagship,2024,3,43370.95,1392,103,0.074,20777.75,108.74
+S015,Atlanta Flagship,Southeast,Flagship,2024,4,39020.03,1215,83,0.0683,21371.2,82.58
+S015,Atlanta Flagship,Southeast,Flagship,2024,5,44898.52,1410,95,0.0674,21851.5,105.47
+S015,Atlanta Flagship,Southeast,Flagship,2024,6,43816.82,1445,110,0.0761,21001.06,108.64
+S015,Atlanta Flagship,Southeast,Flagship,2024,7,48733.68,1504,111,0.0738,20688.38,135.56
+S015,Atlanta Flagship,Southeast,Flagship,2024,8,47577.01,1451,96,0.0662,20746.63,129.32
+S015,Atlanta Flagship,Southeast,Flagship,2024,9,43916.95,1310,101,0.0771,18521.47,137.11
+S015,Atlanta Flagship,Southeast,Flagship,2024,10,46571.35,1469,98,0.0667,23384.41,99.16
+S015,Atlanta Flagship,Southeast,Flagship,2024,11,61880.44,2009,135,0.0672,23590.77,162.31
+S015,Atlanta Flagship,Southeast,Flagship,2024,12,74799.14,2070,136,0.0657,31307.58,138.92
+S015,Atlanta Flagship,Southeast,Flagship,2025,1,35066.66,1198,90,0.0751,17972.6,95.11
+S015,Atlanta Flagship,Southeast,Flagship,2025,2,35644.44,1128,74,0.0656,17364.08,105.28
+S015,Atlanta Flagship,Southeast,Flagship,2025,3,46355.99,1446,125,0.0864,20494.38,126.19
+S015,Atlanta Flagship,Southeast,Flagship,2025,4,45243.9,1391,83,0.0597,21262.91,112.78
+S015,Atlanta Flagship,Southeast,Flagship,2025,5,50432.63,1551,92,0.0593,23884.84,111.15
+S015,Atlanta Flagship,Southeast,Flagship,2025,6,46798.23,1383,90,0.0651,21405.43,118.63
+S015,Atlanta Flagship,Southeast,Flagship,2025,7,46315.05,1468,104,0.0708,20023.81,131.3
+S015,Atlanta Flagship,Southeast,Flagship,2025,8,46079.83,1498,110,0.0734,19813.63,132.57
+S015,Atlanta Flagship,Southeast,Flagship,2025,9,47601.75,1471,100,0.068,20462.81,132.63
+S015,Atlanta Flagship,Southeast,Flagship,2025,10,49276.53,1604,97,0.0605,23370.79,110.85
+S015,Atlanta Flagship,Southeast,Flagship,2025,11,57852.62,1952,131,0.0671,27460.13,110.68
+S015,Atlanta Flagship,Southeast,Flagship,2025,12,64509.45,2097,162,0.0773,28035.91,130.1
+S016,Miami Standard,Southeast,Standard,2024,1,16051.82,543,41,0.0755,15245.69,5.29
+S016,Miami Standard,Southeast,Standard,2024,2,15562.94,507,37,0.073,14404.21,8.04
+S016,Miami Standard,Southeast,Standard,2024,3,24250.04,813,64,0.0787,20777.75,16.71
+S016,Miami Standard,Southeast,Standard,2024,4,18757.35,599,33,0.0551,21371.2,-12.23
+S016,Miami Standard,Southeast,Standard,2024,5,21977.1,716,46,0.0642,21851.5,0.57
+S016,Miami Standard,Southeast,Standard,2024,6,19993.04,616,42,0.0682,21001.06,-4.8
+S016,Miami Standard,Southeast,Standard,2024,7,20196.48,645,46,0.0713,20688.38,-2.38
+S016,Miami Standard,Southeast,Standard,2024,8,20856.31,649,39,0.0601,20746.63,0.53
+S016,Miami Standard,Southeast,Standard,2024,9,17700.64,558,42,0.0753,18521.47,-4.43
+S016,Miami Standard,Southeast,Standard,2024,10,26738.23,774,43,0.0556,23384.41,14.34
+S016,Miami Standard,Southeast,Standard,2024,11,24550.4,772,58,0.0751,23590.77,4.07
+S016,Miami Standard,Southeast,Standard,2024,12,31212.61,1035,83,0.0802,31307.58,-0.3
+S016,Miami Standard,Southeast,Standard,2025,1,16758.65,512,37,0.0723,17972.6,-6.75
+S016,Miami Standard,Southeast,Standard,2025,2,22185.1,610,43,0.0705,17364.08,27.76
+S016,Miami Standard,Southeast,Standard,2025,3,21202.19,665,44,0.0662,20494.38,3.45
+S016,Miami Standard,Southeast,Standard,2025,4,20097.56,630,29,0.046,21262.91,-5.48
+S016,Miami Standard,Southeast,Standard,2025,5,22530.71,732,50,0.0683,23884.84,-5.67
+S016,Miami Standard,Southeast,Standard,2025,6,21725.95,672,50,0.0744,21405.43,1.5
+S016,Miami Standard,Southeast,Standard,2025,7,20672.59,544,38,0.0699,20023.81,3.24
+S016,Miami Standard,Southeast,Standard,2025,8,20281.22,617,45,0.0729,19813.63,2.36
+S016,Miami Standard,Southeast,Standard,2025,9,19718.59,619,56,0.0905,20462.81,-3.64
+S016,Miami Standard,Southeast,Standard,2025,10,26663.13,747,47,0.0629,23370.79,14.09
+S016,Miami Standard,Southeast,Standard,2025,11,27964.28,938,77,0.0821,27460.13,1.84
+S016,Miami Standard,Southeast,Standard,2025,12,27372.1,984,77,0.0783,28035.91,-2.37
+S017,Charlotte Outlet,Southeast,Outlet,2024,1,21250.77,718,56,0.078,15245.69,39.39
+S017,Charlotte Outlet,Southeast,Outlet,2024,2,24151.67,763,57,0.0747,14404.21,67.67
+S017,Charlotte Outlet,Southeast,Outlet,2024,3,31467.28,967,70,0.0724,20777.75,51.45
+S017,Charlotte Outlet,Southeast,Outlet,2024,4,27175.71,815,56,0.0687,21371.2,27.16
+S017,Charlotte Outlet,Southeast,Outlet,2024,5,28407.18,912,66,0.0724,21851.5,30.0
+S017,Charlotte Outlet,Southeast,Outlet,2024,6,29073.22,895,61,0.0682,21001.06,38.44
+S017,Charlotte Outlet,Southeast,Outlet,2024,7,23459.4,736,48,0.0652,20688.38,13.39
+S017,Charlotte Outlet,Southeast,Outlet,2024,8,30769.26,974,62,0.0637,20746.63,48.31
+S017,Charlotte Outlet,Southeast,Outlet,2024,9,34648.74,874,61,0.0698,18521.47,87.07
+S017,Charlotte Outlet,Southeast,Outlet,2024,10,32014.66,995,62,0.0623,23384.41,36.91
+S017,Charlotte Outlet,Southeast,Outlet,2024,11,32808.07,1033,59,0.0571,23590.77,39.07
+S017,Charlotte Outlet,Southeast,Outlet,2024,12,41336.92,1363,103,0.0756,31307.58,32.03
+S017,Charlotte Outlet,Southeast,Outlet,2025,1,21863.65,752,58,0.0771,17972.6,21.65
+S017,Charlotte Outlet,Southeast,Outlet,2025,2,20968.2,699,54,0.0773,17364.08,20.76
+S017,Charlotte Outlet,Southeast,Outlet,2025,3,31039.24,951,82,0.0862,20494.38,51.45
+S017,Charlotte Outlet,Southeast,Outlet,2025,4,28225.11,933,66,0.0707,21262.91,32.74
+S017,Charlotte Outlet,Southeast,Outlet,2025,5,28566.11,931,71,0.0763,23884.84,19.6
+S017,Charlotte Outlet,Southeast,Outlet,2025,6,29204.27,899,59,0.0656,21405.43,36.43
+S017,Charlotte Outlet,Southeast,Outlet,2025,7,30103.63,913,63,0.069,20023.81,50.34
+S017,Charlotte Outlet,Southeast,Outlet,2025,8,28717.08,911,64,0.0703,19813.63,44.94
+S017,Charlotte Outlet,Southeast,Outlet,2025,9,29629.0,901,72,0.0799,20462.81,44.79
+S017,Charlotte Outlet,Southeast,Outlet,2025,10,32160.02,989,57,0.0576,23370.79,37.61
+S017,Charlotte Outlet,Southeast,Outlet,2025,11,40985.34,1277,88,0.0689,27460.13,49.25
+S017,Charlotte Outlet,Southeast,Outlet,2025,12,36351.66,1247,83,0.0666,28035.91,29.66
+S018,Nashville Express,Southeast,Express,2024,1,7090.13,216,15,0.0694,15245.69,-53.49
+S018,Nashville Express,Southeast,Express,2024,2,6307.11,214,10,0.0467,14404.21,-56.21
+S018,Nashville Express,Southeast,Express,2024,3,10737.22,299,25,0.0836,20777.75,-48.32
+S018,Nashville Express,Southeast,Express,2024,4,8344.27,259,16,0.0618,21371.2,-60.96
+S018,Nashville Express,Southeast,Express,2024,5,8796.56,275,21,0.0764,21851.5,-59.74
+S018,Nashville Express,Southeast,Express,2024,6,9555.26,307,15,0.0489,21001.06,-54.5
+S018,Nashville Express,Southeast,Express,2024,7,9245.73,258,18,0.0698,20688.38,-55.31
+S018,Nashville Express,Southeast,Express,2024,8,7197.33,239,16,0.0669,20746.63,-65.31
+S018,Nashville Express,Southeast,Express,2024,9,8134.17,265,14,0.0528,18521.47,-56.08
+S018,Nashville Express,Southeast,Express,2024,10,8659.69,285,22,0.0772,23384.41,-62.97
+S018,Nashville Express,Southeast,Express,2024,11,10359.1,362,29,0.0801,23590.77,-56.09
+S018,Nashville Express,Southeast,Express,2024,12,15232.39,477,34,0.0713,31307.58,-51.35
+S018,Nashville Express,Southeast,Express,2025,1,6990.16,255,15,0.0588,17972.6,-61.11
+S018,Nashville Express,Southeast,Express,2025,2,8016.79,251,13,0.0518,17364.08,-53.83
+S018,Nashville Express,Southeast,Express,2025,3,8358.74,271,22,0.0812,20494.38,-59.21
+S018,Nashville Express,Southeast,Express,2025,4,7540.73,259,14,0.0541,21262.91,-64.54
+S018,Nashville Express,Southeast,Express,2025,5,10541.76,331,25,0.0755,23884.84,-55.86
+S018,Nashville Express,Southeast,Express,2025,6,9024.39,288,24,0.0833,21405.43,-57.84
+S018,Nashville Express,Southeast,Express,2025,7,9851.13,301,19,0.0631,20023.81,-50.8
+S018,Nashville Express,Southeast,Express,2025,8,9211.87,267,21,0.0787,19813.63,-53.51
+S018,Nashville Express,Southeast,Express,2025,9,7527.7,242,25,0.1033,20462.81,-63.21
+S018,Nashville Express,Southeast,Express,2025,10,11350.55,355,20,0.0563,23370.79,-51.43
+S018,Nashville Express,Southeast,Express,2025,11,11575.91,405,31,0.0765,27460.13,-57.84
+S018,Nashville Express,Southeast,Express,2025,12,16662.76,530,36,0.0679,28035.91,-40.57
+S019,Orlando Standard,Southeast,Standard,2024,1,14375.47,490,42,0.0857,15245.69,-5.71
+S019,Orlando Standard,Southeast,Standard,2024,2,14114.21,506,38,0.0751,14404.21,-2.01
+S019,Orlando Standard,Southeast,Standard,2024,3,21197.31,677,45,0.0665,20777.75,2.02
+S019,Orlando Standard,Southeast,Standard,2024,4,22498.41,618,28,0.0453,21371.2,5.27
+S019,Orlando Standard,Southeast,Standard,2024,5,23165.59,661,42,0.0635,21851.5,6.01
+S019,Orlando Standard,Southeast,Standard,2024,6,22009.07,748,50,0.0668,21001.06,4.8
+S019,Orlando Standard,Southeast,Standard,2024,7,21291.94,673,53,0.0788,20688.38,2.92
+S019,Orlando Standard,Southeast,Standard,2024,8,20636.94,632,53,0.0839,20746.63,-0.53
+S019,Orlando Standard,Southeast,Standard,2024,9,19342.3,609,42,0.069,18521.47,4.43
+S019,Orlando Standard,Southeast,Standard,2024,10,20137.83,656,42,0.064,23384.41,-13.88
+S019,Orlando Standard,Southeast,Standard,2024,11,22631.13,752,56,0.0745,23590.77,-4.07
+S019,Orlando Standard,Southeast,Standard,2024,12,31714.82,1066,69,0.0647,31307.58,1.3
+S019,Orlando Standard,Southeast,Standard,2025,1,19186.55,624,40,0.0641,17972.6,6.75
+S019,Orlando Standard,Southeast,Standard,2025,2,15759.04,517,47,0.0909,17364.08,-9.24
+S019,Orlando Standard,Southeast,Standard,2025,3,19786.57,629,41,0.0652,20494.38,-3.45
+S019,Orlando Standard,Southeast,Standard,2025,4,23988.72,654,53,0.081,21262.91,12.82
+S019,Orlando Standard,Southeast,Standard,2025,5,25238.97,727,52,0.0715,23884.84,5.67
+S019,Orlando Standard,Southeast,Standard,2025,6,19365.68,628,52,0.0828,21405.43,-9.53
+S019,Orlando Standard,Southeast,Standard,2025,7,19375.03,616,43,0.0698,20023.81,-3.24
+S019,Orlando Standard,Southeast,Standard,2025,8,19346.03,597,42,0.0704,19813.63,-2.36
+S019,Orlando Standard,Southeast,Standard,2025,9,21207.03,711,73,0.1027,20462.81,3.64
+S019,Orlando Standard,Southeast,Standard,2025,10,20078.45,643,41,0.0638,23370.79,-14.09
+S019,Orlando Standard,Southeast,Standard,2025,11,27104.76,890,67,0.0753,27460.13,-1.29
+S019,Orlando Standard,Southeast,Standard,2025,12,28699.71,1002,79,0.0788,28035.91,2.37
+S020,Raleigh Standard,Southeast,Standard,2024,1,12713.59,447,24,0.0537,15245.69,-16.61
+S020,Raleigh Standard,Southeast,Standard,2024,2,14293.83,471,41,0.087,14404.21,-0.77
+S020,Raleigh Standard,Southeast,Standard,2024,3,16391.13,539,42,0.0779,20777.75,-21.11
+S020,Raleigh Standard,Southeast,Standard,2024,4,21082.34,575,42,0.073,21371.2,-1.35
+S020,Raleigh Standard,Southeast,Standard,2024,5,18443.17,587,41,0.0698,21851.5,-15.6
+S020,Raleigh Standard,Southeast,Standard,2024,6,16073.73,523,36,0.0688,21001.06,-23.46
+S020,Raleigh Standard,Southeast,Standard,2024,7,14728.02,476,39,0.0819,20688.38,-28.81
+S020,Raleigh Standard,Southeast,Standard,2024,8,19606.28,609,51,0.0837,20746.63,-5.5
+S020,Raleigh Standard,Southeast,Standard,2024,9,15260.92,501,48,0.0958,18521.47,-17.6
+S020,Raleigh Standard,Southeast,Standard,2024,10,14360.63,459,31,0.0675,23384.41,-38.59
+S020,Raleigh Standard,Southeast,Standard,2024,11,21165.88,676,53,0.0784,23590.77,-10.28
+S020,Raleigh Standard,Southeast,Standard,2024,12,24748.4,824,63,0.0765,31307.58,-20.95
+S020,Raleigh Standard,Southeast,Standard,2025,1,14130.25,446,16,0.0359,17972.6,-21.38
+S020,Raleigh Standard,Southeast,Standard,2025,2,15716.84,536,48,0.0896,17364.08,-9.49
+S020,Raleigh Standard,Southeast,Standard,2025,3,18338.31,600,39,0.065,20494.38,-10.52
+S020,Raleigh Standard,Southeast,Standard,2025,4,18415.87,592,37,0.0625,21262.91,-13.39
+S020,Raleigh Standard,Southeast,Standard,2025,5,16413.82,521,37,0.071,23884.84,-31.28
+S020,Raleigh Standard,Southeast,Standard,2025,6,17942.12,546,30,0.0549,21405.43,-16.18
+S020,Raleigh Standard,Southeast,Standard,2025,7,17426.59,495,35,0.0707,20023.81,-12.97
+S020,Raleigh Standard,Southeast,Standard,2025,8,17879.55,598,46,0.0769,19813.63,-9.76
+S020,Raleigh Standard,Southeast,Standard,2025,9,16164.11,502,42,0.0837,20462.81,-21.01
+S020,Raleigh Standard,Southeast,Standard,2025,10,16769.68,570,37,0.0649,23370.79,-28.25
+S020,Raleigh Standard,Southeast,Standard,2025,11,18827.82,651,44,0.0676,27460.13,-31.44
+S020,Raleigh Standard,Southeast,Standard,2025,12,24129.97,823,53,0.0644,28035.91,-13.93
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,1,32733.38,1054,75,0.0712,15245.69,114.71
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,2,28638.96,959,67,0.0699,14404.21,98.82
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,3,39760.4,1277,98,0.0767,20777.75,91.36
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,4,35992.68,1162,72,0.062,21371.2,68.42
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,5,44636.43,1272,110,0.0865,21851.5,104.27
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,6,41435.57,1182,68,0.0575,21001.06,97.3
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,7,39051.16,1206,88,0.073,20688.38,88.76
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,8,39708.86,1330,98,0.0737,20746.63,91.4
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,9,42138.02,1260,98,0.0778,18521.47,127.51
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,10,43722.37,1365,98,0.0718,23384.41,86.97
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,11,47181.31,1601,113,0.0706,23590.77,100.0
+S021,Atlanta Flagship 2,Southeast,Flagship,2024,12,63739.89,2076,157,0.0756,31307.58,103.59
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,1,36641.74,1201,69,0.0575,17972.6,103.88
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,2,32279.12,1056,70,0.0663,17364.08,85.9
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,3,43086.66,1363,100,0.0734,20494.38,110.24
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,4,36322.39,1211,87,0.0718,21262.91,70.83
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,5,45998.49,1393,86,0.0617,23884.84,92.58
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,6,40047.79,1269,95,0.0749,21405.43,87.09
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,7,39613.18,1284,87,0.0678,20023.81,97.83
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,8,41230.51,1353,104,0.0769,19813.63,108.09
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,9,37039.19,1154,77,0.0667,20462.81,81.01
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,10,45444.64,1434,108,0.0753,23370.79,94.45
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,11,52244.45,1779,139,0.0781,27460.13,90.26
+S021,Atlanta Flagship 2,Southeast,Flagship,2025,12,58753.65,1871,132,0.0706,28035.91,109.57
+S022,Miami Standard 2,Southeast,Standard,2024,1,17550.11,590,38,0.0644,15245.69,15.12
+S022,Miami Standard 2,Southeast,Standard,2024,2,14514.59,495,34,0.0687,14404.21,0.77
+S022,Miami Standard 2,Southeast,Standard,2024,3,21770.45,664,41,0.0617,20777.75,4.78
+S022,Miami Standard 2,Southeast,Standard,2024,4,25811.91,749,48,0.0641,21371.2,20.78
+S022,Miami Standard 2,Southeast,Standard,2024,5,24574.36,756,55,0.0728,21851.5,12.46
+S022,Miami Standard 2,Southeast,Standard,2024,6,22191.73,668,45,0.0674,21001.06,5.67
+S022,Miami Standard 2,Southeast,Standard,2024,7,23489.55,729,55,0.0754,20688.38,13.54
+S022,Miami Standard 2,Southeast,Standard,2024,8,27492.33,847,66,0.0779,20746.63,32.51
+S022,Miami Standard 2,Southeast,Standard,2024,9,24272.66,767,63,0.0821,18521.47,31.05
+S022,Miami Standard 2,Southeast,Standard,2024,10,30451.18,822,57,0.0693,23384.41,30.22
+S022,Miami Standard 2,Southeast,Standard,2024,11,29265.7,936,65,0.0694,23590.77,24.06
+S022,Miami Standard 2,Southeast,Standard,2024,12,31753.63,1071,72,0.0672,31307.58,1.42
+S022,Miami Standard 2,Southeast,Standard,2025,1,15799.14,520,37,0.0712,17972.6,-12.09
+S022,Miami Standard 2,Southeast,Standard,2025,2,19482.7,562,34,0.0605,17364.08,12.2
+S022,Miami Standard 2,Southeast,Standard,2025,3,26669.26,804,67,0.0833,20494.38,30.13
+S022,Miami Standard 2,Southeast,Standard,2025,4,22428.26,728,53,0.0728,21262.91,5.48
+S022,Miami Standard 2,Southeast,Standard,2025,5,27012.19,813,72,0.0886,23884.84,13.09
+S022,Miami Standard 2,Southeast,Standard,2025,6,21299.23,741,63,0.085,21405.43,-0.5
+S022,Miami Standard 2,Southeast,Standard,2025,7,27251.82,780,68,0.0872,20023.81,36.1
+S022,Miami Standard 2,Southeast,Standard,2025,8,25363.02,769,58,0.0754,19813.63,28.01
+S022,Miami Standard 2,Southeast,Standard,2025,9,27060.82,822,66,0.0803,20462.81,32.24
+S022,Miami Standard 2,Southeast,Standard,2025,10,27219.87,812,50,0.0616,23370.79,16.47
+S022,Miami Standard 2,Southeast,Standard,2025,11,33242.88,1070,81,0.0757,27460.13,21.06
+S022,Miami Standard 2,Southeast,Standard,2025,12,29196.6,960,56,0.0583,28035.91,4.14
+S023,Charlotte Standard 2,Southeast,Standard,2024,1,14439.56,401,22,0.0549,15245.69,-5.29
+S023,Charlotte Standard 2,Southeast,Standard,2024,2,12349.08,392,26,0.0663,14404.21,-14.27
+S023,Charlotte Standard 2,Southeast,Standard,2024,3,15880.32,436,35,0.0803,20777.75,-23.57
+S023,Charlotte Standard 2,Southeast,Standard,2024,4,15206.69,456,37,0.0811,21371.2,-28.84
+S023,Charlotte Standard 2,Southeast,Standard,2024,5,18744.49,551,38,0.069,21851.5,-14.22
+S023,Charlotte Standard 2,Southeast,Standard,2024,6,17195.15,550,33,0.06,21001.06,-18.12
+S023,Charlotte Standard 2,Southeast,Standard,2024,7,18203.26,491,35,0.0713,20688.38,-12.01
+S023,Charlotte Standard 2,Southeast,Standard,2024,8,19644.77,621,51,0.0821,20746.63,-5.31
+S023,Charlotte Standard 2,Southeast,Standard,2024,9,17321.25,482,32,0.0664,18521.47,-6.48
+S023,Charlotte Standard 2,Southeast,Standard,2024,10,18209.87,615,55,0.0894,23384.41,-22.13
+S023,Charlotte Standard 2,Southeast,Standard,2024,11,21397.83,727,58,0.0798,23590.77,-9.3
+S023,Charlotte Standard 2,Southeast,Standard,2024,12,29335.79,950,53,0.0558,31307.58,-6.3
+S023,Charlotte Standard 2,Southeast,Standard,2025,1,19313.88,547,42,0.0768,17972.6,7.46
+S023,Charlotte Standard 2,Southeast,Standard,2025,2,13955.76,459,30,0.0654,17364.08,-19.63
+S023,Charlotte Standard 2,Southeast,Standard,2025,3,18616.79,559,35,0.0626,20494.38,-9.16
+S023,Charlotte Standard 2,Southeast,Standard,2025,4,17820.42,576,51,0.0885,21262.91,-16.19
+S023,Charlotte Standard 2,Southeast,Standard,2025,5,18429.25,565,36,0.0637,23884.84,-22.84
+S023,Charlotte Standard 2,Southeast,Standard,2025,6,21511.62,568,37,0.0651,21405.43,0.5
+S023,Charlotte Standard 2,Southeast,Standard,2025,7,18493.45,549,40,0.0729,20023.81,-7.64
+S023,Charlotte Standard 2,Southeast,Standard,2025,8,19339.48,586,38,0.0648,19813.63,-2.39
+S023,Charlotte Standard 2,Southeast,Standard,2025,9,15860.37,509,45,0.0884,20462.81,-22.49
+S023,Charlotte Standard 2,Southeast,Standard,2025,10,19088.34,656,53,0.0808,23370.79,-18.32
+S023,Charlotte Standard 2,Southeast,Standard,2025,11,23906.26,825,65,0.0788,27460.13,-12.94
+S023,Charlotte Standard 2,Southeast,Standard,2025,12,25774.84,794,63,0.0793,28035.91,-8.06
+S024,Nashville Standard 2,Southeast,Standard,2024,1,19275.94,598,35,0.0585,15245.69,26.44
+S024,Nashville Standard 2,Southeast,Standard,2024,2,16389.73,546,26,0.0476,14404.21,13.78
+S024,Nashville Standard 2,Southeast,Standard,2024,3,20358.18,670,59,0.0881,20777.75,-2.02
+S024,Nashville Standard 2,Southeast,Standard,2024,4,21660.06,667,47,0.0705,21371.2,1.35
+S024,Nashville Standard 2,Southeast,Standard,2024,5,21725.89,725,58,0.08,21851.5,-0.57
+S024,Nashville Standard 2,Southeast,Standard,2024,6,23787.21,745,55,0.0738,21001.06,13.27
+S024,Nashville Standard 2,Southeast,Standard,2024,7,21180.27,627,35,0.0558,20688.38,2.38
+S024,Nashville Standard 2,Southeast,Standard,2024,8,24024.99,684,46,0.0673,20746.63,15.8
+S024,Nashville Standard 2,Southeast,Standard,2024,9,19900.87,625,49,0.0784,18521.47,7.45
+S024,Nashville Standard 2,Southeast,Standard,2024,10,26630.98,802,55,0.0686,23384.41,13.88
+S024,Nashville Standard 2,Southeast,Standard,2024,11,29312.71,986,69,0.07,23590.77,24.25
+S024,Nashville Standard 2,Southeast,Standard,2024,12,31402.54,1119,85,0.076,31307.58,0.3
+S024,Nashville Standard 2,Southeast,Standard,2025,1,19612.09,620,37,0.0597,17972.6,9.12
+S024,Nashville Standard 2,Southeast,Standard,2025,2,18969.11,626,45,0.0719,17364.08,9.24
+S024,Nashville Standard 2,Southeast,Standard,2025,3,23666.41,697,39,0.056,20494.38,15.48
+S024,Nashville Standard 2,Southeast,Standard,2025,4,24138.91,690,48,0.0696,21262.91,13.53
+S024,Nashville Standard 2,Southeast,Standard,2025,5,27768.72,806,54,0.067,23884.84,16.26
+S024,Nashville Standard 2,Southeast,Standard,2025,6,21637.39,659,48,0.0728,21405.43,1.08
+S024,Nashville Standard 2,Southeast,Standard,2025,7,26957.96,744,45,0.0605,20023.81,34.63
+S024,Nashville Standard 2,Southeast,Standard,2025,8,29696.32,844,46,0.0545,19813.63,49.88
+S024,Nashville Standard 2,Southeast,Standard,2025,9,23271.63,648,45,0.0694,20462.81,13.73
+S024,Nashville Standard 2,Southeast,Standard,2025,10,27862.6,904,53,0.0586,23370.79,19.22
+S024,Nashville Standard 2,Southeast,Standard,2025,11,27815.5,949,72,0.0759,27460.13,1.29
+S024,Nashville Standard 2,Southeast,Standard,2025,12,32239.0,1081,83,0.0768,28035.91,14.99
+S025,Orlando Express 2,Southeast,Express,2024,1,7134.28,196,15,0.0765,15245.69,-53.2
+S025,Orlando Express 2,Southeast,Express,2024,2,4742.67,164,12,0.0732,14404.21,-67.07
+S025,Orlando Express 2,Southeast,Express,2024,3,7340.43,240,19,0.0792,20777.75,-64.67
+S025,Orlando Express 2,Southeast,Express,2024,4,7144.02,233,15,0.0644,21371.2,-66.57
+S025,Orlando Express 2,Southeast,Express,2024,5,8910.18,276,17,0.0616,21851.5,-59.22
+S025,Orlando Express 2,Southeast,Express,2024,6,7018.4,225,26,0.1156,21001.06,-66.58
+S025,Orlando Express 2,Southeast,Express,2024,7,8455.18,257,21,0.0817,20688.38,-59.13
+S025,Orlando Express 2,Southeast,Express,2024,8,6935.97,236,14,0.0593,20746.63,-66.57
+S025,Orlando Express 2,Southeast,Express,2024,9,6411.14,207,18,0.087,18521.47,-65.39
+S025,Orlando Express 2,Southeast,Express,2024,10,8555.59,276,13,0.0471,23384.41,-63.41
+S025,Orlando Express 2,Southeast,Express,2024,11,8132.67,281,20,0.0712,23590.77,-65.53
+S025,Orlando Express 2,Southeast,Express,2024,12,9230.9,297,21,0.0707,31307.58,-70.52
+S025,Orlando Express 2,Southeast,Express,2025,1,6684.17,222,17,0.0766,17972.6,-62.81
+S025,Orlando Express 2,Southeast,Express,2025,2,7827.64,214,9,0.0421,17364.08,-54.92
+S025,Orlando Express 2,Southeast,Express,2025,3,8644.0,238,18,0.0756,20494.38,-57.82
+S025,Orlando Express 2,Southeast,Express,2025,4,6111.98,199,11,0.0553,21262.91,-71.26
+S025,Orlando Express 2,Southeast,Express,2025,5,8711.69,238,17,0.0714,23884.84,-63.53
+S025,Orlando Express 2,Southeast,Express,2025,6,7883.27,229,15,0.0655,21405.43,-63.17
+S025,Orlando Express 2,Southeast,Express,2025,7,7749.36,262,18,0.0687,20023.81,-61.3
+S025,Orlando Express 2,Southeast,Express,2025,8,5608.0,174,9,0.0517,19813.63,-71.7
+S025,Orlando Express 2,Southeast,Express,2025,9,8154.46,273,16,0.0586,20462.81,-60.15
+S025,Orlando Express 2,Southeast,Express,2025,10,9353.65,296,19,0.0642,23370.79,-59.98
+S025,Orlando Express 2,Southeast,Express,2025,11,11626.41,356,26,0.073,27460.13,-57.66
+S025,Orlando Express 2,Southeast,Express,2025,12,8570.42,295,22,0.0746,28035.91,-69.43
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,1,10562.02,321,27,0.0841,15245.69,-30.72
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,2,9082.47,320,24,0.075,14404.21,-36.95
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,3,17142.22,422,22,0.0521,20777.75,-17.5
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,4,13412.92,416,43,0.1034,21371.2,-37.24
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,5,13642.78,441,29,0.0658,21851.5,-37.57
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,6,13609.44,433,31,0.0716,21001.06,-35.2
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,7,11843.36,413,27,0.0654,20688.38,-42.75
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,8,13325.34,378,29,0.0767,20746.63,-35.77
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,9,12393.82,409,26,0.0636,18521.47,-33.08
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,10,16828.06,520,40,0.0769,23384.41,-28.04
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,11,19098.41,667,54,0.081,23590.77,-19.04
+S026,Raleigh Outlet 2,Southeast,Outlet,2024,12,18065.63,601,34,0.0566,31307.58,-42.3
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,1,12357.22,412,36,0.0874,17972.6,-31.24
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,2,8820.95,296,19,0.0642,17364.08,-49.2
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,3,15826.97,430,39,0.0907,20494.38,-22.77
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,4,11967.4,389,36,0.0925,21262.91,-43.72
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,5,14657.84,447,32,0.0716,23884.84,-38.63
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,6,16944.56,492,36,0.0732,21405.43,-20.84
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,7,12978.11,396,30,0.0758,20023.81,-35.19
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,8,15908.79,522,40,0.0766,19813.63,-19.71
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,9,13948.27,437,34,0.0778,20462.81,-31.84
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,10,16364.72,514,44,0.0856,23370.79,-29.98
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,11,20330.27,642,51,0.0794,27460.13,-25.96
+S026,Raleigh Outlet 2,Southeast,Outlet,2025,12,20841.37,663,51,0.0769,28035.91,-25.66
+S027,Chicago Flagship,Midwest,Flagship,2024,1,36042.26,1163,80,0.0688,11433.71,215.23
+S027,Chicago Flagship,Midwest,Flagship,2024,2,38951.44,1236,78,0.0631,11872.34,228.09
+S027,Chicago Flagship,Midwest,Flagship,2024,3,50258.24,1539,111,0.0721,15689.88,220.32
+S027,Chicago Flagship,Midwest,Flagship,2024,4,51931.07,1570,102,0.065,14937.32,247.66
+S027,Chicago Flagship,Midwest,Flagship,2024,5,52193.85,1624,123,0.0757,17741.75,194.19
+S027,Chicago Flagship,Midwest,Flagship,2024,6,48403.1,1443,94,0.0651,16915.28,186.15
+S027,Chicago Flagship,Midwest,Flagship,2024,7,46364.06,1495,110,0.0736,15007.53,208.94
+S027,Chicago Flagship,Midwest,Flagship,2024,8,51463.46,1637,121,0.0739,15846.22,224.77
+S027,Chicago Flagship,Midwest,Flagship,2024,9,49819.56,1446,105,0.0726,14415.72,245.59
+S027,Chicago Flagship,Midwest,Flagship,2024,10,48124.16,1527,104,0.0681,16294.58,195.34
+S027,Chicago Flagship,Midwest,Flagship,2024,11,63950.78,2087,159,0.0762,17602.77,263.3
+S027,Chicago Flagship,Midwest,Flagship,2024,12,69993.32,2415,181,0.0749,21642.02,223.41
+S027,Chicago Flagship,Midwest,Flagship,2025,1,37006.77,1261,91,0.0722,13045.38,183.68
+S027,Chicago Flagship,Midwest,Flagship,2025,2,40178.65,1306,111,0.085,12004.33,234.7
+S027,Chicago Flagship,Midwest,Flagship,2025,3,48195.97,1576,119,0.0755,15955.31,202.07
+S027,Chicago Flagship,Midwest,Flagship,2025,4,50318.94,1495,103,0.0689,14740.76,241.36
+S027,Chicago Flagship,Midwest,Flagship,2025,5,57088.46,1751,133,0.076,18730.05,204.8
+S027,Chicago Flagship,Midwest,Flagship,2025,6,46950.58,1475,107,0.0725,15272.65,207.42
+S027,Chicago Flagship,Midwest,Flagship,2025,7,47860.18,1488,113,0.0759,15765.89,203.57
+S027,Chicago Flagship,Midwest,Flagship,2025,8,51307.65,1668,146,0.0875,16184.22,217.02
+S027,Chicago Flagship,Midwest,Flagship,2025,9,45792.07,1412,120,0.085,14300.47,220.21
+S027,Chicago Flagship,Midwest,Flagship,2025,10,57226.29,1768,119,0.0673,18389.98,211.18
+S027,Chicago Flagship,Midwest,Flagship,2025,11,61872.78,2007,140,0.0698,18965.8,226.23
+S027,Chicago Flagship,Midwest,Flagship,2025,12,67367.24,2213,142,0.0642,22134.33,204.36
+S028,Detroit Standard,Midwest,Standard,2024,1,6587.13,234,11,0.047,11433.71,-42.39
+S028,Detroit Standard,Midwest,Standard,2024,2,7075.17,222,13,0.0586,11872.34,-40.41
+S028,Detroit Standard,Midwest,Standard,2024,3,9197.58,277,16,0.0578,15689.88,-41.38
+S028,Detroit Standard,Midwest,Standard,2024,4,6028.14,210,12,0.0571,14937.32,-59.64
+S028,Detroit Standard,Midwest,Standard,2024,5,8412.73,293,21,0.0717,17741.75,-52.58
+S028,Detroit Standard,Midwest,Standard,2024,6,7231.95,236,9,0.0381,16915.28,-57.25
+S028,Detroit Standard,Midwest,Standard,2024,7,6608.37,199,13,0.0653,15007.53,-55.97
+S028,Detroit Standard,Midwest,Standard,2024,8,8450.42,287,22,0.0767,15846.22,-46.67
+S028,Detroit Standard,Midwest,Standard,2024,9,8388.31,255,19,0.0745,14415.72,-41.81
+S028,Detroit Standard,Midwest,Standard,2024,10,10777.53,306,26,0.085,16294.58,-33.86
+S028,Detroit Standard,Midwest,Standard,2024,11,9225.04,296,14,0.0473,17602.77,-47.59
+S028,Detroit Standard,Midwest,Standard,2024,12,13663.35,336,24,0.0714,21642.02,-36.87
+S028,Detroit Standard,Midwest,Standard,2025,1,6136.32,223,18,0.0807,13045.38,-52.96
+S028,Detroit Standard,Midwest,Standard,2025,2,6400.23,209,20,0.0957,12004.33,-46.68
+S028,Detroit Standard,Midwest,Standard,2025,3,9177.47,293,23,0.0785,15955.31,-42.48
+S028,Detroit Standard,Midwest,Standard,2025,4,9268.5,300,24,0.08,14740.76,-37.12
+S028,Detroit Standard,Midwest,Standard,2025,5,6419.17,231,22,0.0952,18730.05,-65.73
+S028,Detroit Standard,Midwest,Standard,2025,6,8128.46,235,21,0.0894,15272.65,-46.78
+S028,Detroit Standard,Midwest,Standard,2025,7,7885.63,241,13,0.0539,15765.89,-49.98
+S028,Detroit Standard,Midwest,Standard,2025,8,8575.13,282,17,0.0603,16184.22,-47.02
+S028,Detroit Standard,Midwest,Standard,2025,9,9308.44,318,29,0.0912,14300.47,-34.91
+S028,Detroit Standard,Midwest,Standard,2025,10,7947.89,253,14,0.0553,18389.98,-56.78
+S028,Detroit Standard,Midwest,Standard,2025,11,11014.99,283,17,0.0601,18965.8,-41.92
+S028,Detroit Standard,Midwest,Standard,2025,12,12635.02,366,24,0.0656,22134.33,-42.92
+S029,Minneapolis Outlet,Midwest,Outlet,2024,1,11286.19,391,23,0.0588,11433.71,-1.29
+S029,Minneapolis Outlet,Midwest,Outlet,2024,2,11793.81,381,29,0.0761,11872.34,-0.66
+S029,Minneapolis Outlet,Midwest,Outlet,2024,3,16156.86,526,28,0.0532,15689.88,2.98
+S029,Minneapolis Outlet,Midwest,Outlet,2024,4,14438.4,471,39,0.0828,14937.32,-3.34
+S029,Minneapolis Outlet,Midwest,Outlet,2024,5,12817.59,390,16,0.041,17741.75,-27.75
+S029,Minneapolis Outlet,Midwest,Outlet,2024,6,17637.88,559,43,0.0769,16915.28,4.27
+S029,Minneapolis Outlet,Midwest,Outlet,2024,7,13008.1,398,26,0.0653,15007.53,-13.32
+S029,Minneapolis Outlet,Midwest,Outlet,2024,8,13935.52,450,27,0.06,15846.22,-12.06
+S029,Minneapolis Outlet,Midwest,Outlet,2024,9,13218.88,448,25,0.0558,14415.72,-8.3
+S029,Minneapolis Outlet,Midwest,Outlet,2024,10,15579.21,492,34,0.0691,16294.58,-4.39
+S029,Minneapolis Outlet,Midwest,Outlet,2024,11,18131.72,563,41,0.0728,17602.77,3.0
+S029,Minneapolis Outlet,Midwest,Outlet,2024,12,21501.05,748,49,0.0655,21642.02,-0.65
+S029,Minneapolis Outlet,Midwest,Outlet,2025,1,13916.98,454,26,0.0573,13045.38,6.68
+S029,Minneapolis Outlet,Midwest,Outlet,2025,2,10261.5,353,16,0.0453,12004.33,-14.52
+S029,Minneapolis Outlet,Midwest,Outlet,2025,3,16407.57,520,46,0.0885,15955.31,2.83
+S029,Minneapolis Outlet,Midwest,Outlet,2025,4,13397.83,411,25,0.0608,14740.76,-9.11
+S029,Minneapolis Outlet,Midwest,Outlet,2025,5,15099.9,444,23,0.0518,18730.05,-19.38
+S029,Minneapolis Outlet,Midwest,Outlet,2025,6,15139.06,475,28,0.0589,15272.65,-0.87
+S029,Minneapolis Outlet,Midwest,Outlet,2025,7,18442.57,514,42,0.0817,15765.89,16.98
+S029,Minneapolis Outlet,Midwest,Outlet,2025,8,16843.98,560,40,0.0714,16184.22,4.08
+S029,Minneapolis Outlet,Midwest,Outlet,2025,9,10855.42,362,26,0.0718,14300.47,-24.09
+S029,Minneapolis Outlet,Midwest,Outlet,2025,10,17877.53,531,40,0.0753,18389.98,-2.79
+S029,Minneapolis Outlet,Midwest,Outlet,2025,11,17913.82,609,43,0.0706,18965.8,-5.55
+S029,Minneapolis Outlet,Midwest,Outlet,2025,12,21634.81,699,51,0.073,22134.33,-2.26
+S030,Columbus Express,Midwest,Express,2024,1,3740.48,129,8,0.062,11433.71,-67.29
+S030,Columbus Express,Midwest,Express,2024,2,5102.15,189,13,0.0688,11872.34,-57.02
+S030,Columbus Express,Midwest,Express,2024,3,6791.77,221,11,0.0498,15689.88,-56.71
+S030,Columbus Express,Midwest,Express,2024,4,7291.49,234,20,0.0855,14937.32,-51.19
+S030,Columbus Express,Midwest,Express,2024,5,7517.71,221,18,0.0814,17741.75,-57.63
+S030,Columbus Express,Midwest,Express,2024,6,8462.14,283,13,0.0459,16915.28,-49.97
+S030,Columbus Express,Midwest,Express,2024,7,6136.01,215,13,0.0605,15007.53,-59.11
+S030,Columbus Express,Midwest,Express,2024,8,8075.57,233,15,0.0644,15846.22,-49.04
+S030,Columbus Express,Midwest,Express,2024,9,7346.41,238,15,0.063,14415.72,-49.04
+S030,Columbus Express,Midwest,Express,2024,10,8787.04,279,18,0.0645,16294.58,-46.07
+S030,Columbus Express,Midwest,Express,2024,11,8299.48,295,20,0.0678,17602.77,-52.85
+S030,Columbus Express,Midwest,Express,2024,12,13804.61,402,28,0.0697,21642.02,-36.21
+S030,Columbus Express,Midwest,Express,2025,1,8082.25,232,16,0.069,13045.38,-38.05
+S030,Columbus Express,Midwest,Express,2025,2,7693.59,249,14,0.0562,12004.33,-35.91
+S030,Columbus Express,Midwest,Express,2025,3,7248.42,222,11,0.0495,15955.31,-54.57
+S030,Columbus Express,Midwest,Express,2025,4,7550.56,236,17,0.072,14740.76,-48.78
+S030,Columbus Express,Midwest,Express,2025,5,8641.97,250,26,0.104,18730.05,-53.86
+S030,Columbus Express,Midwest,Express,2025,6,10370.98,290,18,0.0621,15272.65,-32.09
+S030,Columbus Express,Midwest,Express,2025,7,9876.22,311,14,0.045,15765.89,-37.36
+S030,Columbus Express,Midwest,Express,2025,8,8429.57,244,14,0.0574,16184.22,-47.91
+S030,Columbus Express,Midwest,Express,2025,9,5326.77,180,16,0.0889,14300.47,-62.75
+S030,Columbus Express,Midwest,Express,2025,10,9349.45,291,21,0.0722,18389.98,-49.16
+S030,Columbus Express,Midwest,Express,2025,11,10587.62,349,21,0.0602,18965.8,-44.18
+S030,Columbus Express,Midwest,Express,2025,12,8821.76,286,24,0.0839,22134.33,-60.14
+S031,Milwaukee Standard,Midwest,Standard,2024,1,12012.3,448,27,0.0603,11433.71,5.06
+S031,Milwaukee Standard,Midwest,Standard,2024,2,15774.28,489,28,0.0573,11872.34,32.87
+S031,Milwaukee Standard,Midwest,Standard,2024,3,19122.26,612,44,0.0719,15689.88,21.88
+S031,Milwaukee Standard,Midwest,Standard,2024,4,16140.59,463,23,0.0497,14937.32,8.06
+S031,Milwaukee Standard,Midwest,Standard,2024,5,20081.83,600,44,0.0733,17741.75,13.19
+S031,Milwaukee Standard,Midwest,Standard,2024,6,18289.79,579,42,0.0725,16915.28,8.13
+S031,Milwaukee Standard,Midwest,Standard,2024,7,18913.99,574,47,0.0819,15007.53,26.03
+S031,Milwaukee Standard,Midwest,Standard,2024,8,15921.19,517,41,0.0793,15846.22,0.47
+S031,Milwaukee Standard,Midwest,Standard,2024,9,17440.13,579,42,0.0725,14415.72,20.98
+S031,Milwaukee Standard,Midwest,Standard,2024,10,19419.23,586,50,0.0853,16294.58,19.18
+S031,Milwaukee Standard,Midwest,Standard,2024,11,19291.77,572,40,0.0699,17602.77,9.6
+S031,Milwaukee Standard,Midwest,Standard,2024,12,24864.32,846,50,0.0591,21642.02,14.89
+S031,Milwaukee Standard,Midwest,Standard,2025,1,13669.82,466,40,0.0858,13045.38,4.79
+S031,Milwaukee Standard,Midwest,Standard,2025,2,14695.68,472,36,0.0763,12004.33,22.42
+S031,Milwaukee Standard,Midwest,Standard,2025,3,20061.65,613,49,0.0799,15955.31,25.74
+S031,Milwaukee Standard,Midwest,Standard,2025,4,13168.98,472,45,0.0953,14740.76,-10.66
+S031,Milwaukee Standard,Midwest,Standard,2025,5,19609.22,635,41,0.0646,18730.05,4.69
+S031,Milwaukee Standard,Midwest,Standard,2025,6,18827.35,591,34,0.0575,15272.65,23.27
+S031,Milwaukee Standard,Midwest,Standard,2025,7,17491.71,555,33,0.0595,15765.89,10.95
+S031,Milwaukee Standard,Midwest,Standard,2025,8,16903.71,475,31,0.0653,16184.22,4.45
+S031,Milwaukee Standard,Midwest,Standard,2025,9,16718.87,583,44,0.0755,14300.47,16.91
+S031,Milwaukee Standard,Midwest,Standard,2025,10,20193.03,572,47,0.0822,18389.98,9.8
+S031,Milwaukee Standard,Midwest,Standard,2025,11,19872.82,680,63,0.0926,18965.8,4.78
+S031,Milwaukee Standard,Midwest,Standard,2025,12,21644.97,710,56,0.0789,22134.33,-2.21
+S032,St. Louis Standard,Midwest,Standard,2024,1,15822.14,553,55,0.0995,11433.71,38.38
+S032,St. Louis Standard,Midwest,Standard,2024,2,11950.86,412,32,0.0777,11872.34,0.66
+S032,St. Louis Standard,Midwest,Standard,2024,3,21857.03,627,52,0.0829,15689.88,39.31
+S032,St. Louis Standard,Midwest,Standard,2024,4,16802.81,540,40,0.0741,14937.32,12.49
+S032,St. Louis Standard,Midwest,Standard,2024,5,21262.12,654,48,0.0734,17741.75,19.84
+S032,St. Louis Standard,Midwest,Standard,2024,6,21395.63,590,39,0.0661,16915.28,26.49
+S032,St. Louis Standard,Midwest,Standard,2024,7,20438.49,653,46,0.0704,15007.53,36.19
+S032,St. Louis Standard,Midwest,Standard,2024,8,20149.5,652,65,0.0997,15846.22,27.16
+S032,St. Louis Standard,Midwest,Standard,2024,9,16311.79,507,34,0.0671,14415.72,13.15
+S032,St. Louis Standard,Midwest,Standard,2024,10,21218.94,662,48,0.0725,16294.58,30.22
+S032,St. Louis Standard,Midwest,Standard,2024,11,23774.23,824,73,0.0886,17602.77,35.06
+S032,St. Louis Standard,Midwest,Standard,2024,12,27622.61,902,69,0.0765,21642.02,27.63
+S032,St. Louis Standard,Midwest,Standard,2025,1,16253.15,596,46,0.0772,13045.38,24.59
+S032,St. Louis Standard,Midwest,Standard,2025,2,16968.58,534,39,0.073,12004.33,41.35
+S032,St. Louis Standard,Midwest,Standard,2025,3,19184.13,611,48,0.0786,15955.31,20.24
+S032,St. Louis Standard,Midwest,Standard,2025,4,19764.87,603,33,0.0547,14740.76,34.08
+S032,St. Louis Standard,Midwest,Standard,2025,5,19614.82,680,56,0.0824,18730.05,4.72
+S032,St. Louis Standard,Midwest,Standard,2025,6,17712.77,572,32,0.0559,15272.65,15.98
+S032,St. Louis Standard,Midwest,Standard,2025,7,20612.81,663,47,0.0709,15765.89,30.74
+S032,St. Louis Standard,Midwest,Standard,2025,8,19641.94,571,45,0.0788,16184.22,21.36
+S032,St. Louis Standard,Midwest,Standard,2025,9,26619.91,712,43,0.0604,14300.47,86.15
+S032,St. Louis Standard,Midwest,Standard,2025,10,25398.33,777,58,0.0746,18389.98,38.11
+S032,St. Louis Standard,Midwest,Standard,2025,11,27466.59,920,73,0.0793,18965.8,44.82
+S032,St. Louis Standard,Midwest,Standard,2025,12,30751.14,971,67,0.069,22134.33,38.93
+S033,Chicago Standard 2,Midwest,Standard,2024,1,10816.0,362,27,0.0746,11433.71,-5.4
+S033,Chicago Standard 2,Midwest,Standard,2024,2,12128.9,397,29,0.073,11872.34,2.16
+S033,Chicago Standard 2,Midwest,Standard,2024,3,18096.7,513,33,0.0643,15689.88,15.34
+S033,Chicago Standard 2,Midwest,Standard,2024,4,13267.11,416,40,0.0962,14937.32,-11.18
+S033,Chicago Standard 2,Midwest,Standard,2024,5,17102.64,476,27,0.0567,17741.75,-3.6
+S033,Chicago Standard 2,Midwest,Standard,2024,6,14338.93,474,30,0.0633,16915.28,-15.23
+S033,Chicago Standard 2,Midwest,Standard,2024,7,16387.73,491,34,0.0692,15007.53,9.2
+S033,Chicago Standard 2,Midwest,Standard,2024,8,18322.32,543,40,0.0737,15846.22,15.63
+S033,Chicago Standard 2,Midwest,Standard,2024,9,11479.58,347,20,0.0576,14415.72,-20.37
+S033,Chicago Standard 2,Midwest,Standard,2024,10,17009.95,567,34,0.06,16294.58,4.39
+S033,Chicago Standard 2,Midwest,Standard,2024,11,15434.73,566,46,0.0813,17602.77,-12.32
+S033,Chicago Standard 2,Midwest,Standard,2024,12,23406.5,728,58,0.0797,21642.02,8.15
+S033,Chicago Standard 2,Midwest,Standard,2025,1,12046.85,413,24,0.0581,13045.38,-7.65
+S033,Chicago Standard 2,Midwest,Standard,2025,2,10626.17,407,24,0.059,12004.33,-11.48
+S033,Chicago Standard 2,Midwest,Standard,2025,3,17518.29,564,32,0.0567,15955.31,9.8
+S033,Chicago Standard 2,Midwest,Standard,2025,4,18355.37,472,35,0.0742,14740.76,24.52
+S033,Chicago Standard 2,Midwest,Standard,2025,5,18583.26,599,32,0.0534,18730.05,-0.78
+S033,Chicago Standard 2,Midwest,Standard,2025,6,15406.23,477,27,0.0566,15272.65,0.87
+S033,Chicago Standard 2,Midwest,Standard,2025,7,15821.12,533,47,0.0882,15765.89,0.35
+S033,Chicago Standard 2,Midwest,Standard,2025,8,16170.35,497,34,0.0684,16184.22,-0.09
+S033,Chicago Standard 2,Midwest,Standard,2025,9,15800.31,510,34,0.0667,14300.47,10.49
+S033,Chicago Standard 2,Midwest,Standard,2025,10,19219.37,624,54,0.0865,18389.98,4.51
+S033,Chicago Standard 2,Midwest,Standard,2025,11,16191.37,588,32,0.0544,18965.8,-14.63
+S033,Chicago Standard 2,Midwest,Standard,2025,12,22623.68,764,55,0.072,22134.33,2.21
+S034,Detroit Outlet 2,Midwest,Outlet,2024,1,10165.81,330,25,0.0758,11433.71,-11.09
+S034,Detroit Outlet 2,Midwest,Outlet,2024,2,11620.43,364,19,0.0522,11872.34,-2.12
+S034,Detroit Outlet 2,Midwest,Outlet,2024,3,12559.2,445,27,0.0607,15689.88,-19.95
+S034,Detroit Outlet 2,Midwest,Outlet,2024,4,12903.92,418,33,0.0789,14937.32,-13.61
+S034,Detroit Outlet 2,Midwest,Outlet,2024,5,18024.32,543,39,0.0718,17741.75,1.59
+S034,Detroit Outlet 2,Midwest,Outlet,2024,6,13828.09,442,31,0.0701,16915.28,-18.25
+S034,Detroit Outlet 2,Midwest,Outlet,2024,7,12859.74,426,36,0.0845,15007.53,-14.31
+S034,Detroit Outlet 2,Midwest,Outlet,2024,8,13896.76,460,33,0.0717,15846.22,-12.3
+S034,Detroit Outlet 2,Midwest,Outlet,2024,9,12037.97,404,28,0.0693,14415.72,-16.49
+S034,Detroit Outlet 2,Midwest,Outlet,2024,10,19180.58,502,36,0.0717,16294.58,17.71
+S034,Detroit Outlet 2,Midwest,Outlet,2024,11,17073.81,591,36,0.0609,17602.77,-3.0
+S034,Detroit Outlet 2,Midwest,Outlet,2024,12,23607.16,748,58,0.0775,21642.02,9.08
+S034,Detroit Outlet 2,Midwest,Outlet,2025,1,12809.7,437,28,0.0641,13045.38,-1.81
+S034,Detroit Outlet 2,Midwest,Outlet,2025,2,12081.04,392,25,0.0638,12004.33,0.64
+S034,Detroit Outlet 2,Midwest,Outlet,2025,3,17961.89,490,33,0.0673,15955.31,12.58
+S034,Detroit Outlet 2,Midwest,Outlet,2025,4,15694.78,526,35,0.0665,14740.76,6.47
+S034,Detroit Outlet 2,Midwest,Outlet,2025,5,18957.88,618,50,0.0809,18730.05,1.22
+S034,Detroit Outlet 2,Midwest,Outlet,2025,6,12750.33,385,21,0.0545,15272.65,-16.52
+S034,Detroit Outlet 2,Midwest,Outlet,2025,7,14311.93,461,42,0.0911,15765.89,-9.22
+S034,Detroit Outlet 2,Midwest,Outlet,2025,8,12827.17,436,35,0.0803,16184.22,-20.74
+S034,Detroit Outlet 2,Midwest,Outlet,2025,9,14335.71,486,34,0.07,14300.47,0.25
+S034,Detroit Outlet 2,Midwest,Outlet,2025,10,17251.33,555,38,0.0685,18389.98,-6.19
+S034,Detroit Outlet 2,Midwest,Outlet,2025,11,18217.79,605,37,0.0612,18965.8,-3.94
+S034,Detroit Outlet 2,Midwest,Outlet,2025,12,23341.91,733,49,0.0668,22134.33,5.46
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,1,11581.22,364,19,0.0522,11433.71,1.29
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,2,10474.03,303,21,0.0693,11872.34,-11.78
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,3,12396.91,398,22,0.0553,15689.88,-20.99
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,4,11992.16,359,22,0.0613,14937.32,-19.72
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,5,14606.88,506,36,0.0711,17741.75,-17.67
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,6,16355.23,547,31,0.0567,16915.28,-3.31
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,7,14305.71,471,31,0.0658,15007.53,-4.68
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,8,15771.24,477,43,0.0901,15846.22,-0.47
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,9,14026.54,428,17,0.0397,14415.72,-2.7
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,10,13484.13,443,29,0.0655,16294.58,-17.25
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,11,14920.44,524,45,0.0859,17602.77,-15.24
+S035,Minneapolis Outlet 2,Midwest,Outlet,2024,12,20549.07,666,56,0.0841,21642.02,-5.05
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,1,10099.5,341,18,0.0528,13045.38,-22.58
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,2,11927.62,381,24,0.063,12004.33,-0.64
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,3,12493.0,392,32,0.0816,15955.31,-21.7
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,4,13786.74,450,36,0.08,14740.76,-6.47
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,5,14585.18,445,24,0.0539,18730.05,-22.13
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,6,14591.06,454,39,0.0859,15272.65,-4.46
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,7,15710.65,488,35,0.0717,15765.89,-0.35
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,8,13862.96,446,20,0.0448,16184.22,-14.34
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,9,13358.67,370,19,0.0514,14300.47,-6.59
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,10,19135.34,554,38,0.0686,18389.98,4.05
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,11,19714.74,611,52,0.0851,18965.8,3.95
+S035,Minneapolis Outlet 2,Midwest,Outlet,2025,12,23589.08,701,55,0.0785,22134.33,6.57
+S036,Columbus Standard 2,Midwest,Standard,2024,1,8961.97,312,30,0.0962,11433.71,-21.62
+S036,Columbus Standard 2,Midwest,Standard,2024,2,14183.75,420,19,0.0452,11872.34,19.47
+S036,Columbus Standard 2,Midwest,Standard,2024,3,15169.91,492,42,0.0854,15689.88,-3.31
+S036,Columbus Standard 2,Midwest,Standard,2024,4,15436.24,424,32,0.0755,14937.32,3.34
+S036,Columbus Standard 2,Midwest,Standard,2024,5,18371.15,541,49,0.0906,17741.75,3.55
+S036,Columbus Standard 2,Midwest,Standard,2024,6,12548.84,364,25,0.0687,16915.28,-25.81
+S036,Columbus Standard 2,Midwest,Standard,2024,7,15814.84,483,29,0.06,15007.53,5.38
+S036,Columbus Standard 2,Midwest,Standard,2024,8,15289.04,467,33,0.0707,15846.22,-3.52
+S036,Columbus Standard 2,Midwest,Standard,2024,9,16074.87,463,32,0.0691,14415.72,11.51
+S036,Columbus Standard 2,Midwest,Standard,2024,10,14612.64,455,25,0.0549,16294.58,-10.32
+S036,Columbus Standard 2,Midwest,Standard,2024,11,15431.06,540,41,0.0759,17602.77,-12.34
+S036,Columbus Standard 2,Midwest,Standard,2024,12,17790.26,620,47,0.0758,21642.02,-17.8
+S036,Columbus Standard 2,Midwest,Standard,2025,1,13337.71,406,34,0.0837,13045.38,2.24
+S036,Columbus Standard 2,Midwest,Standard,2025,2,11351.31,380,23,0.0605,12004.33,-5.44
+S036,Columbus Standard 2,Midwest,Standard,2025,3,14450.79,450,38,0.0844,15955.31,-9.43
+S036,Columbus Standard 2,Midwest,Standard,2025,4,15777.99,435,22,0.0506,14740.76,7.04
+S036,Columbus Standard 2,Midwest,Standard,2025,5,18852.33,544,48,0.0882,18730.05,0.65
+S036,Columbus Standard 2,Midwest,Standard,2025,6,13685.49,458,31,0.0677,15272.65,-10.39
+S036,Columbus Standard 2,Midwest,Standard,2025,7,15555.79,473,35,0.074,15765.89,-1.33
+S036,Columbus Standard 2,Midwest,Standard,2025,8,17896.67,435,29,0.0667,16184.22,10.58
+S036,Columbus Standard 2,Midwest,Standard,2025,9,14265.24,417,27,0.0647,14300.47,-0.25
+S036,Columbus Standard 2,Midwest,Standard,2025,10,14556.26,481,38,0.079,18389.98,-20.85
+S036,Columbus Standard 2,Midwest,Standard,2025,11,18498.95,573,39,0.0681,18965.8,-2.46
+S036,Columbus Standard 2,Midwest,Standard,2025,12,19579.5,699,61,0.0873,22134.33,-11.54
+S037,Milwaukee Standard 2,Midwest,Standard,2024,1,11801.02,372,25,0.0672,11433.71,3.21
+S037,Milwaukee Standard 2,Midwest,Standard,2024,2,10153.95,320,24,0.075,11872.34,-14.47
+S037,Milwaukee Standard 2,Midwest,Standard,2024,3,15222.9,492,48,0.0976,15689.88,-2.98
+S037,Milwaukee Standard 2,Midwest,Standard,2024,4,15639.78,511,38,0.0744,14937.32,4.7
+S037,Milwaukee Standard 2,Midwest,Standard,2024,5,17459.18,485,23,0.0474,17741.75,-1.59
+S037,Milwaukee Standard 2,Midwest,Standard,2024,6,17475.33,579,32,0.0553,16915.28,3.31
+S037,Milwaukee Standard 2,Midwest,Standard,2024,7,15709.35,464,30,0.0647,15007.53,4.68
+S037,Milwaukee Standard 2,Midwest,Standard,2024,8,19528.14,572,38,0.0664,15846.22,23.24
+S037,Milwaukee Standard 2,Midwest,Standard,2024,9,16137.59,501,36,0.0719,14415.72,11.94
+S037,Milwaukee Standard 2,Midwest,Standard,2024,10,18068.15,566,37,0.0654,16294.58,10.88
+S037,Milwaukee Standard 2,Midwest,Standard,2024,11,19592.29,612,46,0.0752,17602.77,11.3
+S037,Milwaukee Standard 2,Midwest,Standard,2024,12,21243.96,759,48,0.0632,21642.02,-1.84
+S037,Milwaukee Standard 2,Midwest,Standard,2025,1,11807.93,401,31,0.0773,13045.38,-9.49
+S037,Milwaukee Standard 2,Midwest,Standard,2025,2,16400.37,481,27,0.0561,12004.33,36.62
+S037,Milwaukee Standard 2,Midwest,Standard,2025,3,15503.04,488,43,0.0881,15955.31,-2.83
+S037,Milwaukee Standard 2,Midwest,Standard,2025,4,15760.86,502,34,0.0677,14740.76,6.92
+S037,Milwaukee Standard 2,Midwest,Standard,2025,5,21217.86,619,49,0.0792,18730.05,13.28
+S037,Milwaukee Standard 2,Midwest,Standard,2025,6,17419.51,564,52,0.0922,15272.65,14.06
+S037,Milwaukee Standard 2,Midwest,Standard,2025,7,17016.41,562,37,0.0658,15765.89,7.93
+S037,Milwaukee Standard 2,Midwest,Standard,2025,8,15365.31,482,32,0.0664,16184.22,-5.06
+S037,Milwaukee Standard 2,Midwest,Standard,2025,9,13573.83,439,37,0.0843,14300.47,-5.08
+S037,Milwaukee Standard 2,Midwest,Standard,2025,10,18253.78,620,47,0.0758,18389.98,-0.74
+S037,Milwaukee Standard 2,Midwest,Standard,2025,11,21428.65,692,55,0.0795,18965.8,12.99
+S037,Milwaukee Standard 2,Midwest,Standard,2025,12,24579.91,801,63,0.0787,22134.33,11.05
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,1,13153.19,385,27,0.0701,11433.71,15.04
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,2,14242.34,520,48,0.0923,11872.34,19.96
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,3,19365.79,540,37,0.0685,15689.88,23.43
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,4,18495.74,489,26,0.0532,14937.32,23.82
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,5,18920.55,548,38,0.0693,17741.75,6.64
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,6,17721.35,553,44,0.0796,16915.28,4.77
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,7,14126.92,457,34,0.0744,15007.53,-5.87
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,8,18964.79,582,36,0.0619,15846.22,19.68
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,9,14804.9,453,32,0.0706,14415.72,2.7
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,10,15422.54,464,30,0.0647,16294.58,-5.35
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,11,18839.59,555,36,0.0649,17602.77,7.03
+S038,St. Louis Outlet 2,Midwest,Outlet,2024,12,21782.98,726,52,0.0716,21642.02,0.65
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,1,13281.06,450,26,0.0578,13045.38,1.81
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,2,14437.23,467,25,0.0535,12004.33,20.27
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,3,15076.6,455,38,0.0835,15955.31,-5.51
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,4,13239.39,416,28,0.0673,14740.76,-10.19
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,5,18607.77,589,51,0.0866,18730.05,-0.65
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,6,18626.99,547,27,0.0494,15272.65,21.96
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,7,14973.29,468,36,0.0769,15765.89,-5.03
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,8,16198.08,505,42,0.0832,16184.22,0.09
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,9,21289.27,532,41,0.0771,14300.47,48.87
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,10,18526.17,596,47,0.0789,18389.98,0.74
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,11,19432.64,670,43,0.0642,18965.8,2.46
+S038,St. Louis Outlet 2,Midwest,Outlet,2025,12,20875.17,731,63,0.0862,22134.33,-5.69
+S039,Phoenix Flagship,Southwest,Flagship,2024,1,28266.4,955,67,0.0702,13398.47,110.97
+S039,Phoenix Flagship,Southwest,Flagship,2024,2,29492.16,947,65,0.0686,12935.22,128.0
+S039,Phoenix Flagship,Southwest,Flagship,2024,3,42451.99,1209,79,0.0653,17254.43,146.04
+S039,Phoenix Flagship,Southwest,Flagship,2024,4,38839.76,1136,69,0.0607,16610.42,133.83
+S039,Phoenix Flagship,Southwest,Flagship,2024,5,40229.63,1282,74,0.0577,17413.45,131.03
+S039,Phoenix Flagship,Southwest,Flagship,2024,6,44863.95,1343,94,0.07,17175.43,161.21
+S039,Phoenix Flagship,Southwest,Flagship,2024,7,34701.06,1170,78,0.0667,16463.25,110.78
+S039,Phoenix Flagship,Southwest,Flagship,2024,8,39863.81,1272,95,0.0747,19885.39,100.47
+S039,Phoenix Flagship,Southwest,Flagship,2024,9,32281.73,1067,73,0.0684,14889.12,116.81
+S039,Phoenix Flagship,Southwest,Flagship,2024,10,37676.3,1119,76,0.0679,16208.31,132.45
+S039,Phoenix Flagship,Southwest,Flagship,2024,11,49605.22,1662,126,0.0758,18523.38,167.8
+S039,Phoenix Flagship,Southwest,Flagship,2024,12,56251.99,1953,131,0.0671,24291.52,131.57
+S039,Phoenix Flagship,Southwest,Flagship,2025,1,38971.29,1204,69,0.0573,14032.74,177.72
+S039,Phoenix Flagship,Southwest,Flagship,2025,2,35424.54,1125,82,0.0729,13274.28,166.87
+S039,Phoenix Flagship,Southwest,Flagship,2025,3,42758.37,1298,93,0.0716,17846.84,139.59
+S039,Phoenix Flagship,Southwest,Flagship,2025,4,39492.4,1164,76,0.0653,15277.67,158.5
+S039,Phoenix Flagship,Southwest,Flagship,2025,5,46656.39,1347,79,0.0586,18262.03,155.48
+S039,Phoenix Flagship,Southwest,Flagship,2025,6,43937.8,1372,103,0.0751,17455.82,151.71
+S039,Phoenix Flagship,Southwest,Flagship,2025,7,43991.02,1454,114,0.0784,17813.51,146.95
+S039,Phoenix Flagship,Southwest,Flagship,2025,8,40711.6,1221,97,0.0794,19282.52,111.13
+S039,Phoenix Flagship,Southwest,Flagship,2025,9,34297.58,1160,79,0.0681,17608.32,94.78
+S039,Phoenix Flagship,Southwest,Flagship,2025,10,46237.35,1443,113,0.0783,18824.21,145.63
+S039,Phoenix Flagship,Southwest,Flagship,2025,11,55238.6,1755,135,0.0769,23921.39,130.92
+S039,Phoenix Flagship,Southwest,Flagship,2025,12,56145.03,1778,124,0.0697,23490.06,139.02
+S040,Dallas Standard,Southwest,Standard,2024,1,18668.83,560,34,0.0607,13398.47,39.34
+S040,Dallas Standard,Southwest,Standard,2024,2,18140.98,578,34,0.0588,12935.22,40.24
+S040,Dallas Standard,Southwest,Standard,2024,3,19661.11,610,38,0.0623,17254.43,13.95
+S040,Dallas Standard,Southwest,Standard,2024,4,22873.83,656,57,0.0869,16610.42,37.71
+S040,Dallas Standard,Southwest,Standard,2024,5,23768.72,714,42,0.0588,17413.45,36.5
+S040,Dallas Standard,Southwest,Standard,2024,6,17805.36,601,34,0.0566,17175.43,3.67
+S040,Dallas Standard,Southwest,Standard,2024,7,20036.93,610,39,0.0639,16463.25,21.71
+S040,Dallas Standard,Southwest,Standard,2024,8,21585.76,657,40,0.0609,19885.39,8.55
+S040,Dallas Standard,Southwest,Standard,2024,9,22755.67,663,48,0.0724,14889.12,52.83
+S040,Dallas Standard,Southwest,Standard,2024,10,21975.12,710,40,0.0563,16208.31,35.58
+S040,Dallas Standard,Southwest,Standard,2024,11,26948.39,824,67,0.0813,18523.38,45.48
+S040,Dallas Standard,Southwest,Standard,2024,12,31237.22,1107,78,0.0705,24291.52,28.59
+S040,Dallas Standard,Southwest,Standard,2025,1,18184.34,589,30,0.0509,14032.74,29.59
+S040,Dallas Standard,Southwest,Standard,2025,2,13297.8,461,25,0.0542,13274.28,0.18
+S040,Dallas Standard,Southwest,Standard,2025,3,23489.29,726,49,0.0675,17846.84,31.62
+S040,Dallas Standard,Southwest,Standard,2025,4,20884.78,576,44,0.0764,15277.67,36.7
+S040,Dallas Standard,Southwest,Standard,2025,5,23783.68,710,42,0.0592,18262.03,30.24
+S040,Dallas Standard,Southwest,Standard,2025,6,18478.22,567,48,0.0847,17455.82,5.86
+S040,Dallas Standard,Southwest,Standard,2025,7,21046.67,652,38,0.0583,17813.51,18.15
+S040,Dallas Standard,Southwest,Standard,2025,8,21600.29,664,56,0.0843,19282.52,12.02
+S040,Dallas Standard,Southwest,Standard,2025,9,20357.52,643,41,0.0638,17608.32,15.61
+S040,Dallas Standard,Southwest,Standard,2025,10,20631.87,699,53,0.0758,18824.21,9.6
+S040,Dallas Standard,Southwest,Standard,2025,11,27959.85,932,56,0.0601,23921.39,16.88
+S040,Dallas Standard,Southwest,Standard,2025,12,27332.67,941,66,0.0701,23490.06,16.36
+S041,Houston Outlet,Southwest,Outlet,2024,1,8763.51,272,20,0.0735,13398.47,-34.59
+S041,Houston Outlet,Southwest,Outlet,2024,2,10252.21,315,18,0.0571,12935.22,-20.74
+S041,Houston Outlet,Southwest,Outlet,2024,3,16395.13,519,38,0.0732,17254.43,-4.98
+S041,Houston Outlet,Southwest,Outlet,2024,4,9603.69,332,24,0.0723,16610.42,-42.18
+S041,Houston Outlet,Southwest,Outlet,2024,5,14010.62,415,23,0.0554,17413.45,-19.54
+S041,Houston Outlet,Southwest,Outlet,2024,6,12050.85,394,36,0.0914,17175.43,-29.84
+S041,Houston Outlet,Southwest,Outlet,2024,7,12095.44,376,25,0.0665,16463.25,-26.53
+S041,Houston Outlet,Southwest,Outlet,2024,8,14810.78,434,38,0.0876,19885.39,-25.52
+S041,Houston Outlet,Southwest,Outlet,2024,9,12694.79,409,34,0.0831,14889.12,-14.74
+S041,Houston Outlet,Southwest,Outlet,2024,10,11843.57,394,25,0.0635,16208.31,-26.93
+S041,Houston Outlet,Southwest,Outlet,2024,11,15030.0,541,37,0.0684,18523.38,-18.86
+S041,Houston Outlet,Southwest,Outlet,2024,12,20260.08,619,47,0.0759,24291.52,-16.6
+S041,Houston Outlet,Southwest,Outlet,2025,1,11687.98,360,25,0.0694,14032.74,-16.71
+S041,Houston Outlet,Southwest,Outlet,2025,2,11373.04,343,18,0.0525,13274.28,-14.32
+S041,Houston Outlet,Southwest,Outlet,2025,3,11285.88,380,44,0.1158,17846.84,-36.76
+S041,Houston Outlet,Southwest,Outlet,2025,4,12872.43,428,31,0.0724,15277.67,-15.74
+S041,Houston Outlet,Southwest,Outlet,2025,5,13027.48,393,27,0.0687,18262.03,-28.66
+S041,Houston Outlet,Southwest,Outlet,2025,6,12563.76,413,31,0.0751,17455.82,-28.03
+S041,Houston Outlet,Southwest,Outlet,2025,7,14106.15,468,27,0.0577,17813.51,-20.81
+S041,Houston Outlet,Southwest,Outlet,2025,8,10142.74,331,22,0.0665,19282.52,-47.4
+S041,Houston Outlet,Southwest,Outlet,2025,9,10690.84,340,22,0.0647,17608.32,-39.29
+S041,Houston Outlet,Southwest,Outlet,2025,10,15695.01,443,40,0.0903,18824.21,-16.62
+S041,Houston Outlet,Southwest,Outlet,2025,11,20282.21,663,50,0.0754,23921.39,-15.21
+S041,Houston Outlet,Southwest,Outlet,2025,12,16714.0,603,41,0.068,23490.06,-28.85
+S042,Albuquerque Express,Southwest,Express,2024,1,7821.44,236,10,0.0424,13398.47,-41.62
+S042,Albuquerque Express,Southwest,Express,2024,2,7358.51,230,19,0.0826,12935.22,-43.11
+S042,Albuquerque Express,Southwest,Express,2024,3,8112.01,263,13,0.0494,17254.43,-52.99
+S042,Albuquerque Express,Southwest,Express,2024,4,8610.55,262,18,0.0687,16610.42,-48.16
+S042,Albuquerque Express,Southwest,Express,2024,5,8310.78,249,14,0.0562,17413.45,-52.27
+S042,Albuquerque Express,Southwest,Express,2024,6,8990.76,281,25,0.089,17175.43,-47.65
+S042,Albuquerque Express,Southwest,Express,2024,7,7523.42,241,11,0.0456,16463.25,-54.3
+S042,Albuquerque Express,Southwest,Express,2024,8,11640.68,383,29,0.0757,19885.39,-41.46
+S042,Albuquerque Express,Southwest,Express,2024,9,8777.98,254,12,0.0472,14889.12,-41.04
+S042,Albuquerque Express,Southwest,Express,2024,10,7157.74,239,20,0.0837,16208.31,-55.84
+S042,Albuquerque Express,Southwest,Express,2024,11,10046.88,351,28,0.0798,18523.38,-45.76
+S042,Albuquerque Express,Southwest,Express,2024,12,13217.2,414,27,0.0652,24291.52,-45.59
+S042,Albuquerque Express,Southwest,Express,2025,1,6879.16,226,16,0.0708,14032.74,-50.98
+S042,Albuquerque Express,Southwest,Express,2025,2,8469.84,258,17,0.0659,13274.28,-36.19
+S042,Albuquerque Express,Southwest,Express,2025,3,8330.75,254,17,0.0669,17846.84,-53.32
+S042,Albuquerque Express,Southwest,Express,2025,4,7673.52,225,16,0.0711,15277.67,-49.77
+S042,Albuquerque Express,Southwest,Express,2025,5,8108.31,255,22,0.0863,18262.03,-55.6
+S042,Albuquerque Express,Southwest,Express,2025,6,8353.57,275,23,0.0836,17455.82,-52.14
+S042,Albuquerque Express,Southwest,Express,2025,7,7313.48,246,17,0.0691,17813.51,-58.94
+S042,Albuquerque Express,Southwest,Express,2025,8,9315.8,278,22,0.0791,19282.52,-51.69
+S042,Albuquerque Express,Southwest,Express,2025,9,8214.77,289,19,0.0657,17608.32,-53.35
+S042,Albuquerque Express,Southwest,Express,2025,10,9304.54,272,21,0.0772,18824.21,-50.57
+S042,Albuquerque Express,Southwest,Express,2025,11,10283.67,358,37,0.1034,23921.39,-57.01
+S042,Albuquerque Express,Southwest,Express,2025,12,13325.77,433,51,0.1178,23490.06,-43.27
+S043,Austin Express,Southwest,Express,2024,1,4085.59,136,9,0.0662,13398.47,-69.51
+S043,Austin Express,Southwest,Express,2024,2,6878.89,202,10,0.0495,12935.22,-46.82
+S043,Austin Express,Southwest,Express,2024,3,5368.64,201,14,0.0697,17254.43,-68.89
+S043,Austin Express,Southwest,Express,2024,4,5893.76,190,13,0.0684,16610.42,-64.52
+S043,Austin Express,Southwest,Express,2024,5,6823.5,220,16,0.0727,17413.45,-60.81
+S043,Austin Express,Southwest,Express,2024,6,7615.07,246,18,0.0732,17175.43,-55.66
+S043,Austin Express,Southwest,Express,2024,7,7710.22,244,14,0.0574,16463.25,-53.17
+S043,Austin Express,Southwest,Express,2024,8,8113.18,278,16,0.0576,19885.39,-59.2
+S043,Austin Express,Southwest,Express,2024,9,5778.34,188,11,0.0585,14889.12,-61.19
+S043,Austin Express,Southwest,Express,2024,10,6376.52,211,17,0.0806,16208.31,-60.66
+S043,Austin Express,Southwest,Express,2024,11,8830.42,285,24,0.0842,18523.38,-52.33
+S043,Austin Express,Southwest,Express,2024,12,12268.54,411,26,0.0633,24291.52,-49.49
+S043,Austin Express,Southwest,Express,2025,1,7924.22,237,13,0.0549,14032.74,-43.53
+S043,Austin Express,Southwest,Express,2025,2,5278.57,190,11,0.0579,13274.28,-60.23
+S043,Austin Express,Southwest,Express,2025,3,7564.93,261,10,0.0383,17846.84,-57.61
+S043,Austin Express,Southwest,Express,2025,4,5384.3,216,20,0.0926,15277.67,-64.76
+S043,Austin Express,Southwest,Express,2025,5,7823.67,229,15,0.0655,18262.03,-57.16
+S043,Austin Express,Southwest,Express,2025,6,6985.93,250,20,0.08,17455.82,-59.98
+S043,Austin Express,Southwest,Express,2025,7,6882.15,239,22,0.0921,17813.51,-61.37
+S043,Austin Express,Southwest,Express,2025,8,7013.89,234,12,0.0513,19282.52,-63.63
+S043,Austin Express,Southwest,Express,2025,9,5291.68,170,14,0.0824,17608.32,-69.95
+S043,Austin Express,Southwest,Express,2025,10,8437.24,285,26,0.0912,18824.21,-55.18
+S043,Austin Express,Southwest,Express,2025,11,7276.64,251,22,0.0876,23921.39,-69.58
+S043,Austin Express,Southwest,Express,2025,12,10432.0,344,17,0.0494,23490.06,-55.59
+S044,Phoenix Standard 2,Southwest,Standard,2024,1,18355.07,578,32,0.0554,13398.47,36.99
+S044,Phoenix Standard 2,Southwest,Standard,2024,2,12875.99,451,37,0.082,12935.22,-0.46
+S044,Phoenix Standard 2,Southwest,Standard,2024,3,20698.76,603,29,0.0481,17254.43,19.96
+S044,Phoenix Standard 2,Southwest,Standard,2024,4,22560.1,709,48,0.0677,16610.42,35.82
+S044,Phoenix Standard 2,Southwest,Standard,2024,5,17459.64,581,40,0.0688,17413.45,0.27
+S044,Phoenix Standard 2,Southwest,Standard,2024,6,20443.46,653,52,0.0796,17175.43,19.03
+S044,Phoenix Standard 2,Southwest,Standard,2024,7,16640.05,514,35,0.0681,16463.25,1.07
+S044,Phoenix Standard 2,Southwest,Standard,2024,8,24823.95,760,45,0.0592,19885.39,24.84
+S044,Phoenix Standard 2,Southwest,Standard,2024,9,17337.73,575,44,0.0765,14889.12,16.45
+S044,Phoenix Standard 2,Southwest,Standard,2024,10,18928.78,569,38,0.0668,16208.31,16.78
+S044,Phoenix Standard 2,Southwest,Standard,2024,11,20351.17,637,47,0.0738,18523.38,9.87
+S044,Phoenix Standard 2,Southwest,Standard,2024,12,27595.12,896,69,0.077,24291.52,13.6
+S044,Phoenix Standard 2,Southwest,Standard,2025,1,14130.4,451,33,0.0732,14032.74,0.7
+S044,Phoenix Standard 2,Southwest,Standard,2025,2,17346.97,528,33,0.0625,13274.28,30.68
+S044,Phoenix Standard 2,Southwest,Standard,2025,3,21327.84,693,51,0.0736,17846.84,19.5
+S044,Phoenix Standard 2,Southwest,Standard,2025,4,18580.34,535,32,0.0598,15277.67,21.62
+S044,Phoenix Standard 2,Southwest,Standard,2025,5,22403.13,703,50,0.0711,18262.03,22.68
+S044,Phoenix Standard 2,Southwest,Standard,2025,6,16485.94,543,37,0.0681,17455.82,-5.56
+S044,Phoenix Standard 2,Southwest,Standard,2025,7,19525.53,563,29,0.0515,17813.51,9.61
+S044,Phoenix Standard 2,Southwest,Standard,2025,8,22261.76,709,60,0.0846,19282.52,15.45
+S044,Phoenix Standard 2,Southwest,Standard,2025,9,19182.06,639,51,0.0798,17608.32,8.94
+S044,Phoenix Standard 2,Southwest,Standard,2025,10,22723.88,714,54,0.0756,18824.21,20.72
+S044,Phoenix Standard 2,Southwest,Standard,2025,11,25293.79,781,58,0.0743,23921.39,5.74
+S044,Phoenix Standard 2,Southwest,Standard,2025,12,28821.96,868,81,0.0933,23490.06,22.7
+S045,Dallas Outlet 2,Southwest,Outlet,2024,1,13500.73,459,34,0.0741,13398.47,0.76
+S045,Dallas Outlet 2,Southwest,Outlet,2024,2,16621.99,376,16,0.0426,12935.22,28.5
+S045,Dallas Outlet 2,Southwest,Outlet,2024,3,17344.14,580,45,0.0776,17254.43,0.52
+S045,Dallas Outlet 2,Southwest,Outlet,2024,4,16313.2,479,31,0.0647,16610.42,-1.79
+S045,Dallas Outlet 2,Southwest,Outlet,2024,5,17367.26,487,34,0.0698,17413.45,-0.27
+S045,Dallas Outlet 2,Southwest,Outlet,2024,6,18101.7,547,40,0.0731,17175.43,5.39
+S045,Dallas Outlet 2,Southwest,Outlet,2024,7,17949.3,567,42,0.0741,16463.25,9.03
+S045,Dallas Outlet 2,Southwest,Outlet,2024,8,20725.24,618,43,0.0696,19885.39,4.22
+S045,Dallas Outlet 2,Southwest,Outlet,2024,9,15308.64,506,45,0.0889,14889.12,2.82
+S045,Dallas Outlet 2,Southwest,Outlet,2024,10,16535.73,545,54,0.0991,16208.31,2.02
+S045,Dallas Outlet 2,Southwest,Outlet,2024,11,19468.39,658,53,0.0805,18523.38,5.1
+S045,Dallas Outlet 2,Southwest,Outlet,2024,12,22650.36,761,54,0.071,24291.52,-6.76
+S045,Dallas Outlet 2,Southwest,Outlet,2025,1,13935.07,395,34,0.0861,14032.74,-0.7
+S045,Dallas Outlet 2,Southwest,Outlet,2025,2,13761.26,411,32,0.0779,13274.28,3.67
+S045,Dallas Outlet 2,Southwest,Outlet,2025,3,14889.84,499,29,0.0581,17846.84,-16.57
+S045,Dallas Outlet 2,Southwest,Outlet,2025,4,15285.88,517,32,0.0619,15277.67,0.05
+S045,Dallas Outlet 2,Southwest,Outlet,2025,5,18591.97,578,50,0.0865,18262.03,1.81
+S045,Dallas Outlet 2,Southwest,Outlet,2025,6,20798.07,628,33,0.0525,17455.82,19.15
+S045,Dallas Outlet 2,Southwest,Outlet,2025,7,16140.27,554,42,0.0758,17813.51,-9.39
+S045,Dallas Outlet 2,Southwest,Outlet,2025,8,20387.36,591,38,0.0643,19282.52,5.73
+S045,Dallas Outlet 2,Southwest,Outlet,2025,9,19494.54,512,40,0.0781,17608.32,10.71
+S045,Dallas Outlet 2,Southwest,Outlet,2025,10,18939.68,625,37,0.0592,18824.21,0.61
+S045,Dallas Outlet 2,Southwest,Outlet,2025,11,24322.44,783,52,0.0664,23921.39,1.68
+S045,Dallas Outlet 2,Southwest,Outlet,2025,12,24455.01,842,73,0.0867,23490.06,4.11
+S046,Houston Flagship 2,Southwest,Flagship,2024,1,26420.03,834,52,0.0624,13398.47,97.19
+S046,Houston Flagship 2,Southwest,Flagship,2024,2,23495.06,800,58,0.0725,12935.22,81.64
+S046,Houston Flagship 2,Southwest,Flagship,2024,3,35475.93,1072,69,0.0644,17254.43,105.6
+S046,Houston Flagship 2,Southwest,Flagship,2024,4,29202.88,918,55,0.0599,16610.42,75.81
+S046,Houston Flagship 2,Southwest,Flagship,2024,5,37146.97,1138,74,0.065,17413.45,113.32
+S046,Houston Flagship 2,Southwest,Flagship,2024,6,34374.83,1048,70,0.0668,17175.43,100.14
+S046,Houston Flagship 2,Southwest,Flagship,2024,7,28150.15,920,40,0.0435,16463.25,70.99
+S046,Houston Flagship 2,Southwest,Flagship,2024,8,31392.98,1057,88,0.0833,19885.39,57.87
+S046,Houston Flagship 2,Southwest,Flagship,2024,9,31722.52,1031,73,0.0708,14889.12,113.06
+S046,Houston Flagship 2,Southwest,Flagship,2024,10,33235.84,1078,73,0.0677,16208.31,105.05
+S046,Houston Flagship 2,Southwest,Flagship,2024,11,41124.6,1333,90,0.0675,18523.38,122.01
+S046,Houston Flagship 2,Southwest,Flagship,2024,12,48251.78,1579,111,0.0703,24291.52,98.64
+S046,Houston Flagship 2,Southwest,Flagship,2025,1,25352.47,849,50,0.0589,14032.74,80.67
+S046,Houston Flagship 2,Southwest,Flagship,2025,2,29451.83,942,67,0.0711,13274.28,121.87
+S046,Houston Flagship 2,Southwest,Flagship,2025,3,34913.99,1084,80,0.0738,17846.84,95.63
+S046,Houston Flagship 2,Southwest,Flagship,2025,4,33245.43,973,70,0.0719,15277.67,117.61
+S046,Houston Flagship 2,Southwest,Flagship,2025,5,39749.9,1126,68,0.0604,18262.03,117.66
+S046,Houston Flagship 2,Southwest,Flagship,2025,6,32435.68,1031,66,0.064,17455.82,85.82
+S046,Houston Flagship 2,Southwest,Flagship,2025,7,29162.73,984,63,0.064,17813.51,63.71
+S046,Houston Flagship 2,Southwest,Flagship,2025,8,34604.71,975,60,0.0615,19282.52,79.46
+S046,Houston Flagship 2,Southwest,Flagship,2025,9,28319.54,953,64,0.0672,17608.32,60.83
+S046,Houston Flagship 2,Southwest,Flagship,2025,10,34354.72,1135,65,0.0573,18824.21,82.5
+S046,Houston Flagship 2,Southwest,Flagship,2025,11,45565.05,1479,96,0.0649,23921.39,90.48
+S046,Houston Flagship 2,Southwest,Flagship,2025,12,45728.47,1441,101,0.0701,23490.06,94.67
+S047,Albuquerque Standard 2,Southwest,Standard,2024,1,10600.82,355,25,0.0704,13398.47,-20.88
+S047,Albuquerque Standard 2,Southwest,Standard,2024,2,12994.46,383,24,0.0627,12935.22,0.46
+S047,Albuquerque Standard 2,Southwest,Standard,2024,3,17164.71,525,31,0.059,17254.43,-0.52
+S047,Albuquerque Standard 2,Southwest,Standard,2024,4,13946.2,466,38,0.0815,16610.42,-16.04
+S047,Albuquerque Standard 2,Southwest,Standard,2024,5,15948.99,472,37,0.0784,17413.45,-8.41
+S047,Albuquerque Standard 2,Southwest,Standard,2024,6,16545.5,466,34,0.073,17175.43,-3.67
+S047,Albuquerque Standard 2,Southwest,Standard,2024,7,16286.46,461,35,0.0759,16463.25,-1.07
+S047,Albuquerque Standard 2,Southwest,Standard,2024,8,18804.89,559,42,0.0751,19885.39,-5.43
+S047,Albuquerque Standard 2,Southwest,Standard,2024,9,12763.86,410,29,0.0707,14889.12,-14.27
+S047,Albuquerque Standard 2,Southwest,Standard,2024,10,15880.88,483,34,0.0704,16208.31,-2.02
+S047,Albuquerque Standard 2,Southwest,Standard,2024,11,17429.83,573,40,0.0698,18523.38,-5.9
+S047,Albuquerque Standard 2,Southwest,Standard,2024,12,19926.93,690,50,0.0725,24291.52,-17.97
+S047,Albuquerque Standard 2,Southwest,Standard,2025,1,14284.05,445,30,0.0674,14032.74,1.79
+S047,Albuquerque Standard 2,Southwest,Standard,2025,2,12075.03,416,35,0.0841,13274.28,-9.03
+S047,Albuquerque Standard 2,Southwest,Standard,2025,3,17164.29,513,37,0.0721,17846.84,-3.82
+S047,Albuquerque Standard 2,Southwest,Standard,2025,4,15044.06,489,34,0.0695,15277.67,-1.53
+S047,Albuquerque Standard 2,Southwest,Standard,2025,5,14024.23,449,24,0.0535,18262.03,-23.21
+S047,Albuquerque Standard 2,Southwest,Standard,2025,6,12742.47,417,27,0.0647,17455.82,-27.0
+S047,Albuquerque Standard 2,Southwest,Standard,2025,7,14760.09,496,37,0.0746,17813.51,-17.14
+S047,Albuquerque Standard 2,Southwest,Standard,2025,8,15422.84,528,39,0.0739,19282.52,-20.02
+S047,Albuquerque Standard 2,Southwest,Standard,2025,9,13611.9,445,34,0.0764,17608.32,-22.7
+S047,Albuquerque Standard 2,Southwest,Standard,2025,10,18708.73,512,39,0.0762,18824.21,-0.61
+S047,Albuquerque Standard 2,Southwest,Standard,2025,11,21534.91,686,47,0.0685,23921.39,-9.98
+S047,Albuquerque Standard 2,Southwest,Standard,2025,12,22525.1,748,57,0.0762,23490.06,-4.11
+S048,Austin Standard 2,Southwest,Standard,2024,1,13296.21,453,31,0.0684,13398.47,-0.76
+S048,Austin Standard 2,Southwest,Standard,2024,2,12240.21,385,35,0.0909,12935.22,-5.37
+S048,Austin Standard 2,Southwest,Standard,2024,3,15875.13,497,37,0.0744,17254.43,-7.99
+S048,Austin Standard 2,Southwest,Standard,2024,4,16907.64,514,40,0.0778,16610.42,1.79
+S048,Austin Standard 2,Southwest,Standard,2024,5,18295.91,557,39,0.07,17413.45,5.07
+S048,Austin Standard 2,Southwest,Standard,2024,6,15856.18,489,21,0.0429,17175.43,-7.68
+S048,Austin Standard 2,Southwest,Standard,2024,7,13483.78,427,23,0.0539,16463.25,-18.1
+S048,Austin Standard 2,Southwest,Standard,2024,8,19045.54,617,49,0.0794,19885.39,-4.22
+S048,Austin Standard 2,Southwest,Standard,2024,9,14469.59,434,20,0.0461,14889.12,-2.82
+S048,Austin Standard 2,Southwest,Standard,2024,10,15329.32,485,28,0.0577,16208.31,-5.42
+S048,Austin Standard 2,Southwest,Standard,2024,11,17578.37,569,44,0.0773,18523.38,-5.1
+S048,Austin Standard 2,Southwest,Standard,2024,12,25932.68,833,49,0.0588,24291.52,6.76
+S048,Austin Standard 2,Southwest,Standard,2025,1,13074.43,420,37,0.0881,14032.74,-6.83
+S048,Austin Standard 2,Southwest,Standard,2025,2,13250.76,432,31,0.0718,13274.28,-0.18
+S048,Austin Standard 2,Southwest,Standard,2025,3,18529.39,543,30,0.0552,17846.84,3.82
+S048,Austin Standard 2,Southwest,Standard,2025,4,15269.46,522,36,0.069,15277.67,-0.05
+S048,Austin Standard 2,Southwest,Standard,2025,5,17932.08,568,51,0.0898,18262.03,-1.81
+S048,Austin Standard 2,Southwest,Standard,2025,6,18425.7,510,35,0.0686,17455.82,5.56
+S048,Austin Standard 2,Southwest,Standard,2025,7,19486.74,618,51,0.0825,17813.51,9.39
+S048,Austin Standard 2,Southwest,Standard,2025,8,18177.68,590,54,0.0915,19282.52,-5.73
+S048,Austin Standard 2,Southwest,Standard,2025,9,16034.58,472,34,0.072,17608.32,-8.94
+S048,Austin Standard 2,Southwest,Standard,2025,10,15242.17,497,36,0.0724,18824.21,-19.03
+S048,Austin Standard 2,Southwest,Standard,2025,11,23520.34,717,44,0.0614,23921.39,-1.68
+S048,Austin Standard 2,Southwest,Standard,2025,12,20147.68,718,45,0.0627,23490.06,-14.23
+S049,Seattle Flagship,West,Flagship,2024,1,30398.39,913,61,0.0668,14893.76,104.1
+S049,Seattle Flagship,West,Flagship,2024,2,33820.36,1039,56,0.0539,15341.04,120.46
+S049,Seattle Flagship,West,Flagship,2024,3,37169.8,1148,91,0.0793,21447.02,73.31
+S049,Seattle Flagship,West,Flagship,2024,4,42384.44,1230,87,0.0707,19542.5,116.88
+S049,Seattle Flagship,West,Flagship,2024,5,37967.31,1167,86,0.0737,21039.82,80.45
+S049,Seattle Flagship,West,Flagship,2024,6,38909.69,1264,92,0.0728,20601.57,88.87
+S049,Seattle Flagship,West,Flagship,2024,7,43123.44,1273,82,0.0644,19181.39,124.82
+S049,Seattle Flagship,West,Flagship,2024,8,41551.04,1327,91,0.0686,21255.3,95.49
+S049,Seattle Flagship,West,Flagship,2024,9,38839.5,1168,93,0.0796,21094.69,84.12
+S049,Seattle Flagship,West,Flagship,2024,10,38729.79,1230,103,0.0837,22679.75,70.77
+S049,Seattle Flagship,West,Flagship,2024,11,45122.62,1446,89,0.0615,24387.21,85.03
+S049,Seattle Flagship,West,Flagship,2024,12,62916.48,1934,135,0.0698,27613.61,127.85
+S049,Seattle Flagship,West,Flagship,2025,1,34336.5,1095,70,0.0639,18509.6,85.51
+S049,Seattle Flagship,West,Flagship,2025,2,34694.64,1117,91,0.0815,15930.29,117.79
+S049,Seattle Flagship,West,Flagship,2025,3,37399.5,1170,90,0.0769,20201.24,85.13
+S049,Seattle Flagship,West,Flagship,2025,4,37406.7,1146,83,0.0724,19991.32,87.11
+S049,Seattle Flagship,West,Flagship,2025,5,37802.99,1201,87,0.0724,23478.34,61.01
+S049,Seattle Flagship,West,Flagship,2025,6,44274.54,1318,96,0.0728,20180.25,119.4
+S049,Seattle Flagship,West,Flagship,2025,7,38987.15,1272,79,0.0621,20570.17,89.53
+S049,Seattle Flagship,West,Flagship,2025,8,43206.09,1331,101,0.0759,19970.23,116.35
+S049,Seattle Flagship,West,Flagship,2025,9,36032.34,1113,82,0.0737,20879.03,72.58
+S049,Seattle Flagship,West,Flagship,2025,10,41763.98,1360,117,0.086,23183.46,80.15
+S049,Seattle Flagship,West,Flagship,2025,11,46798.11,1601,98,0.0612,25896.83,80.71
+S049,Seattle Flagship,West,Flagship,2025,12,56905.66,1812,112,0.0618,31518.88,80.54
+S050,San Francisco Standard,West,Standard,2024,1,15175.69,496,31,0.0625,14893.76,1.89
+S050,San Francisco Standard,West,Standard,2024,2,14998.06,456,31,0.068,15341.04,-2.24
+S050,San Francisco Standard,West,Standard,2024,3,25048.36,768,51,0.0664,21447.02,16.79
+S050,San Francisco Standard,West,Standard,2024,4,16356.28,559,45,0.0805,19542.5,-16.3
+S050,San Francisco Standard,West,Standard,2024,5,22864.48,687,42,0.0611,21039.82,8.67
+S050,San Francisco Standard,West,Standard,2024,6,22457.15,591,39,0.066,20601.57,9.01
+S050,San Francisco Standard,West,Standard,2024,7,19067.08,592,34,0.0574,19181.39,-0.6
+S050,San Francisco Standard,West,Standard,2024,8,20603.62,697,52,0.0746,21255.3,-3.07
+S050,San Francisco Standard,West,Standard,2024,9,19065.71,664,58,0.0873,21094.69,-9.62
+S050,San Francisco Standard,West,Standard,2024,10,19956.48,636,33,0.0519,22679.75,-12.01
+S050,San Francisco Standard,West,Standard,2024,11,24801.42,791,50,0.0632,24387.21,1.7
+S050,San Francisco Standard,West,Standard,2024,12,28133.49,918,57,0.0621,27613.61,1.88
+S050,San Francisco Standard,West,Standard,2025,1,17288.95,516,38,0.0736,18509.6,-6.59
+S050,San Francisco Standard,West,Standard,2025,2,12727.43,393,28,0.0712,15930.29,-20.11
+S050,San Francisco Standard,West,Standard,2025,3,21073.04,684,50,0.0731,20201.24,4.32
+S050,San Francisco Standard,West,Standard,2025,4,20634.62,586,37,0.0631,19991.32,3.22
+S050,San Francisco Standard,West,Standard,2025,5,22717.63,688,40,0.0581,23478.34,-3.24
+S050,San Francisco Standard,West,Standard,2025,6,18289.61,537,48,0.0894,20180.25,-9.37
+S050,San Francisco Standard,West,Standard,2025,7,23021.11,718,46,0.0641,20570.17,11.92
+S050,San Francisco Standard,West,Standard,2025,8,23564.54,700,57,0.0814,19970.23,18.0
+S050,San Francisco Standard,West,Standard,2025,9,20389.21,604,62,0.1026,20879.03,-2.35
+S050,San Francisco Standard,West,Standard,2025,10,24642.15,774,60,0.0775,23183.46,6.29
+S050,San Francisco Standard,West,Standard,2025,11,23622.61,761,61,0.0802,25896.83,-8.78
+S050,San Francisco Standard,West,Standard,2025,12,31702.11,1067,74,0.0694,31518.88,0.58
+S051,Los Angeles Outlet,West,Outlet,2024,1,14858.6,465,36,0.0774,14893.76,-0.24
+S051,Los Angeles Outlet,West,Outlet,2024,2,21378.65,517,32,0.0619,15341.04,39.36
+S051,Los Angeles Outlet,West,Outlet,2024,3,17623.0,577,44,0.0763,21447.02,-17.83
+S051,Los Angeles Outlet,West,Outlet,2024,4,20826.5,693,54,0.0779,19542.5,6.57
+S051,Los Angeles Outlet,West,Outlet,2024,5,19748.77,598,29,0.0485,21039.82,-6.14
+S051,Los Angeles Outlet,West,Outlet,2024,6,18864.52,560,37,0.0661,20601.57,-8.43
+S051,Los Angeles Outlet,West,Outlet,2024,7,17485.49,574,42,0.0732,19181.39,-8.84
+S051,Los Angeles Outlet,West,Outlet,2024,8,18709.76,622,51,0.082,21255.3,-11.98
+S051,Los Angeles Outlet,West,Outlet,2024,9,21441.35,639,23,0.036,21094.69,1.64
+S051,Los Angeles Outlet,West,Outlet,2024,10,23397.08,701,39,0.0556,22679.75,3.16
+S051,Los Angeles Outlet,West,Outlet,2024,11,22458.13,741,63,0.085,24387.21,-7.91
+S051,Los Angeles Outlet,West,Outlet,2024,12,26444.73,922,62,0.0672,27613.61,-4.23
+S051,Los Angeles Outlet,West,Outlet,2025,1,17068.17,544,40,0.0735,18509.6,-7.79
+S051,Los Angeles Outlet,West,Outlet,2025,2,15971.96,542,33,0.0609,15930.29,0.26
+S051,Los Angeles Outlet,West,Outlet,2025,3,19329.43,585,48,0.0821,20201.24,-4.32
+S051,Los Angeles Outlet,West,Outlet,2025,4,18429.98,597,42,0.0704,19991.32,-7.81
+S051,Los Angeles Outlet,West,Outlet,2025,5,24509.08,661,53,0.0802,23478.34,4.39
+S051,Los Angeles Outlet,West,Outlet,2025,6,20388.93,614,40,0.0651,20180.25,1.03
+S051,Los Angeles Outlet,West,Outlet,2025,7,18055.75,601,40,0.0666,20570.17,-12.22
+S051,Los Angeles Outlet,West,Outlet,2025,8,18036.08,584,36,0.0616,19970.23,-9.69
+S051,Los Angeles Outlet,West,Outlet,2025,9,21368.84,641,45,0.0702,20879.03,2.35
+S051,Los Angeles Outlet,West,Outlet,2025,10,24961.54,696,41,0.0589,23183.46,7.67
+S051,Los Angeles Outlet,West,Outlet,2025,11,25600.06,871,68,0.0781,25896.83,-1.15
+S051,Los Angeles Outlet,West,Outlet,2025,12,25518.08,864,51,0.059,31518.88,-19.04
+S052,Portland Express,West,Express,2024,1,8077.89,249,18,0.0723,14893.76,-45.76
+S052,Portland Express,West,Express,2024,2,7340.37,232,13,0.056,15341.04,-52.15
+S052,Portland Express,West,Express,2024,3,10282.99,328,26,0.0793,21447.02,-52.05
+S052,Portland Express,West,Express,2024,4,7313.7,240,13,0.0542,19542.5,-62.58
+S052,Portland Express,West,Express,2024,5,7861.01,222,15,0.0676,21039.82,-62.64
+S052,Portland Express,West,Express,2024,6,7378.2,243,20,0.0823,20601.57,-64.19
+S052,Portland Express,West,Express,2024,7,6736.36,231,23,0.0996,19181.39,-64.88
+S052,Portland Express,West,Express,2024,8,10608.71,303,23,0.0759,21255.3,-50.09
+S052,Portland Express,West,Express,2024,9,9688.26,311,21,0.0675,21094.69,-54.07
+S052,Portland Express,West,Express,2024,10,10552.74,279,17,0.0609,22679.75,-53.47
+S052,Portland Express,West,Express,2024,11,10215.2,363,22,0.0606,24387.21,-58.11
+S052,Portland Express,West,Express,2024,12,12498.7,456,40,0.0877,27613.61,-54.74
+S052,Portland Express,West,Express,2025,1,7769.91,264,20,0.0758,18509.6,-58.02
+S052,Portland Express,West,Express,2025,2,8525.09,265,11,0.0415,15930.29,-46.49
+S052,Portland Express,West,Express,2025,3,12432.19,376,20,0.0532,20201.24,-38.46
+S052,Portland Express,West,Express,2025,4,8118.48,240,9,0.0375,19991.32,-59.39
+S052,Portland Express,West,Express,2025,5,12309.78,322,22,0.0683,23478.34,-47.57
+S052,Portland Express,West,Express,2025,6,8567.86,291,17,0.0584,20180.25,-57.54
+S052,Portland Express,West,Express,2025,7,9236.78,253,16,0.0632,20570.17,-55.1
+S052,Portland Express,West,Express,2025,8,9341.96,255,22,0.0863,19970.23,-53.22
+S052,Portland Express,West,Express,2025,9,9114.85,302,18,0.0596,20879.03,-56.34
+S052,Portland Express,West,Express,2025,10,10524.59,325,24,0.0738,23183.46,-54.6
+S052,Portland Express,West,Express,2025,11,12727.97,400,30,0.075,25896.83,-50.85
+S052,Portland Express,West,Express,2025,12,14413.86,460,30,0.0652,31518.88,-54.27
+S053,Denver Standard,West,Standard,2024,1,20292.04,623,40,0.0642,14893.76,36.25
+S053,Denver Standard,West,Standard,2024,2,22076.58,682,47,0.0689,15341.04,43.91
+S053,Denver Standard,West,Standard,2024,3,25077.22,813,70,0.0861,21447.02,16.93
+S053,Denver Standard,West,Standard,2024,4,24411.99,784,56,0.0714,19542.5,24.92
+S053,Denver Standard,West,Standard,2024,5,28348.47,899,56,0.0623,21039.82,34.74
+S053,Denver Standard,West,Standard,2024,6,24247.69,782,56,0.0716,20601.57,17.7
+S053,Denver Standard,West,Standard,2024,7,27966.78,847,56,0.0661,19181.39,45.8
+S053,Denver Standard,West,Standard,2024,8,31063.86,927,62,0.0669,21255.3,46.15
+S053,Denver Standard,West,Standard,2024,9,26797.01,875,78,0.0891,21094.69,27.03
+S053,Denver Standard,West,Standard,2024,10,27858.42,880,57,0.0648,22679.75,22.83
+S053,Denver Standard,West,Standard,2024,11,35909.71,1049,77,0.0734,24387.21,47.25
+S053,Denver Standard,West,Standard,2024,12,40704.65,1409,114,0.0809,27613.61,47.41
+S053,Denver Standard,West,Standard,2025,1,27420.85,735,59,0.0803,18509.6,48.14
+S053,Denver Standard,West,Standard,2025,2,23873.73,763,47,0.0616,15930.29,49.86
+S053,Denver Standard,West,Standard,2025,3,28785.76,905,76,0.084,20201.24,42.5
+S053,Denver Standard,West,Standard,2025,4,24246.32,747,65,0.087,19991.32,21.28
+S053,Denver Standard,West,Standard,2025,5,30697.77,911,68,0.0746,23478.34,30.75
+S053,Denver Standard,West,Standard,2025,6,24476.18,736,42,0.0571,20180.25,21.29
+S053,Denver Standard,West,Standard,2025,7,23884.82,801,61,0.0762,20570.17,16.11
+S053,Denver Standard,West,Standard,2025,8,31089.49,962,66,0.0686,19970.23,55.68
+S053,Denver Standard,West,Standard,2025,9,27248.4,915,77,0.0842,20879.03,30.51
+S053,Denver Standard,West,Standard,2025,10,31699.18,1042,64,0.0614,23183.46,36.73
+S053,Denver Standard,West,Standard,2025,11,39339.33,1269,98,0.0772,25896.83,51.91
+S053,Denver Standard,West,Standard,2025,12,39193.3,1286,82,0.0638,31518.88,24.35
+S054,San Diego Standard,West,Standard,2024,1,18520.06,628,53,0.0844,14893.76,24.35
+S054,San Diego Standard,West,Standard,2024,2,20198.35,674,49,0.0727,15341.04,31.66
+S054,San Diego Standard,West,Standard,2024,3,28621.99,891,73,0.0819,21447.02,33.45
+S054,San Diego Standard,West,Standard,2024,4,22776.79,745,57,0.0765,19542.5,16.55
+S054,San Diego Standard,West,Standard,2024,5,31819.24,989,66,0.0667,21039.82,51.23
+S054,San Diego Standard,West,Standard,2024,6,24728.39,788,71,0.0901,20601.57,20.03
+S054,San Diego Standard,West,Standard,2024,7,26204.37,761,43,0.0565,19181.39,36.61
+S054,San Diego Standard,West,Standard,2024,8,30513.39,929,63,0.0678,21255.3,43.56
+S054,San Diego Standard,West,Standard,2024,9,24860.97,773,52,0.0673,21094.69,17.85
+S054,San Diego Standard,West,Standard,2024,10,27316.81,876,70,0.0799,22679.75,20.45
+S054,San Diego Standard,West,Standard,2024,11,34287.74,1166,79,0.0678,24387.21,40.6
+S054,San Diego Standard,West,Standard,2024,12,34979.64,1161,82,0.0706,27613.61,26.68
+S054,San Diego Standard,West,Standard,2025,1,20340.99,723,52,0.0719,18509.6,9.89
+S054,San Diego Standard,West,Standard,2025,2,18783.13,604,37,0.0613,15930.29,17.91
+S054,San Diego Standard,West,Standard,2025,3,27820.63,896,60,0.067,20201.24,37.72
+S054,San Diego Standard,West,Standard,2025,4,26224.68,872,57,0.0654,19991.32,31.18
+S054,San Diego Standard,West,Standard,2025,5,29729.68,973,80,0.0822,23478.34,26.63
+S054,San Diego Standard,West,Standard,2025,6,20222.85,666,46,0.0691,20180.25,0.21
+S054,San Diego Standard,West,Standard,2025,7,28182.91,836,53,0.0634,20570.17,37.01
+S054,San Diego Standard,West,Standard,2025,8,20619.5,717,63,0.0879,19970.23,3.25
+S054,San Diego Standard,West,Standard,2025,9,25180.61,796,47,0.059,20879.03,20.6
+S054,San Diego Standard,West,Standard,2025,10,30350.26,944,62,0.0657,23183.46,30.91
+S054,San Diego Standard,West,Standard,2025,11,32388.8,1119,75,0.067,25896.83,25.07
+S054,San Diego Standard,West,Standard,2025,12,34748.36,1217,105,0.0863,31518.88,10.25
+S055,Seattle Standard 2,West,Standard,2024,1,17010.39,602,36,0.0598,14893.76,14.21
+S055,Seattle Standard 2,West,Standard,2024,2,18586.38,583,45,0.0772,15341.04,21.15
+S055,Seattle Standard 2,West,Standard,2024,3,23641.84,701,47,0.067,21447.02,10.23
+S055,Seattle Standard 2,West,Standard,2024,4,18795.79,610,37,0.0607,19542.5,-3.82
+S055,Seattle Standard 2,West,Standard,2024,5,20974.01,650,34,0.0523,21039.82,-0.31
+S055,Seattle Standard 2,West,Standard,2024,6,29267.29,733,48,0.0655,20601.57,42.06
+S055,Seattle Standard 2,West,Standard,2024,7,22526.38,650,41,0.0631,19181.39,17.44
+S055,Seattle Standard 2,West,Standard,2024,8,18495.74,596,41,0.0688,21255.3,-12.98
+S055,Seattle Standard 2,West,Standard,2024,9,20748.03,643,48,0.0747,21094.69,-1.64
+S055,Seattle Standard 2,West,Standard,2024,10,23934.46,742,43,0.058,22679.75,5.53
+S055,Seattle Standard 2,West,Standard,2024,11,26994.68,802,61,0.0761,24387.21,10.69
+S055,Seattle Standard 2,West,Standard,2024,12,31554.79,1011,61,0.0603,27613.61,14.27
+S055,Seattle Standard 2,West,Standard,2025,1,17818.97,596,55,0.0923,18509.6,-3.73
+S055,Seattle Standard 2,West,Standard,2025,2,14979.02,515,37,0.0718,15930.29,-5.97
+S055,Seattle Standard 2,West,Standard,2025,3,25712.35,737,64,0.0868,20201.24,27.28
+S055,Seattle Standard 2,West,Standard,2025,4,25732.48,672,54,0.0804,19991.32,28.72
+S055,Seattle Standard 2,West,Standard,2025,5,24704.15,764,52,0.0681,23478.34,5.22
+S055,Seattle Standard 2,West,Standard,2025,6,24255.55,689,55,0.0798,20180.25,20.19
+S055,Seattle Standard 2,West,Standard,2025,7,21312.59,697,60,0.0861,20570.17,3.61
+S055,Seattle Standard 2,West,Standard,2025,8,23508.75,719,48,0.0668,19970.23,17.72
+S055,Seattle Standard 2,West,Standard,2025,9,23778.02,728,47,0.0646,20879.03,13.88
+S055,Seattle Standard 2,West,Standard,2025,10,20968.83,679,35,0.0515,23183.46,-9.55
+S055,Seattle Standard 2,West,Standard,2025,11,30923.38,929,76,0.0818,25896.83,19.41
+S055,Seattle Standard 2,West,Standard,2025,12,34991.21,1113,80,0.0719,31518.88,11.02
+S056,San Francisco Outlet 2,West,Outlet,2024,1,9888.82,334,31,0.0928,14893.76,-33.6
+S056,San Francisco Outlet 2,West,Outlet,2024,2,12686.78,336,16,0.0476,15341.04,-17.3
+S056,San Francisco Outlet 2,West,Outlet,2024,3,15835.5,503,30,0.0596,21447.02,-26.16
+S056,San Francisco Outlet 2,West,Outlet,2024,4,15611.13,514,34,0.0661,19542.5,-20.12
+S056,San Francisco Outlet 2,West,Outlet,2024,5,16955.07,491,26,0.053,21039.82,-19.41
+S056,San Francisco Outlet 2,West,Outlet,2024,6,16749.16,522,38,0.0728,20601.57,-18.7
+S056,San Francisco Outlet 2,West,Outlet,2024,7,14500.46,509,28,0.055,19181.39,-24.4
+S056,San Francisco Outlet 2,West,Outlet,2024,8,14942.12,464,28,0.0603,21255.3,-29.7
+S056,San Francisco Outlet 2,West,Outlet,2024,9,16000.54,532,38,0.0714,21094.69,-24.15
+S056,San Francisco Outlet 2,West,Outlet,2024,10,18216.66,594,39,0.0657,22679.75,-19.68
+S056,San Francisco Outlet 2,West,Outlet,2024,11,20580.4,713,46,0.0645,24387.21,-15.61
+S056,San Francisco Outlet 2,West,Outlet,2024,12,23960.04,813,62,0.0763,27613.61,-13.23
+S056,San Francisco Outlet 2,West,Outlet,2025,1,14758.04,445,30,0.0674,18509.6,-20.27
+S056,San Francisco Outlet 2,West,Outlet,2025,2,12570.57,437,29,0.0664,15930.29,-21.09
+S056,San Francisco Outlet 2,West,Outlet,2025,3,18810.1,607,46,0.0758,20201.24,-6.89
+S056,San Francisco Outlet 2,West,Outlet,2025,4,15903.83,502,40,0.0797,19991.32,-20.45
+S056,San Francisco Outlet 2,West,Outlet,2025,5,21474.29,556,27,0.0486,23478.34,-8.54
+S056,San Francisco Outlet 2,West,Outlet,2025,6,18109.36,537,52,0.0968,20180.25,-10.26
+S056,San Francisco Outlet 2,West,Outlet,2025,7,19827.75,633,37,0.0585,20570.17,-3.61
+S056,San Francisco Outlet 2,West,Outlet,2025,8,17174.75,558,52,0.0932,19970.23,-14.0
+S056,San Francisco Outlet 2,West,Outlet,2025,9,14141.33,461,33,0.0716,20879.03,-32.27
+S056,San Francisco Outlet 2,West,Outlet,2025,10,15938.69,576,62,0.1076,23183.46,-31.25
+S056,San Francisco Outlet 2,West,Outlet,2025,11,20432.89,657,36,0.0548,25896.83,-21.1
+S056,San Francisco Outlet 2,West,Outlet,2025,12,21212.41,688,50,0.0727,31518.88,-32.7
+S057,Los Angeles Standard 2,West,Standard,2024,1,13575.85,459,34,0.0741,14893.76,-8.85
+S057,Los Angeles Standard 2,West,Standard,2024,2,11768.28,332,18,0.0542,15341.04,-23.29
+S057,Los Angeles Standard 2,West,Standard,2024,3,20147.07,627,50,0.0797,21447.02,-6.06
+S057,Los Angeles Standard 2,West,Standard,2024,4,15971.55,493,33,0.0669,19542.5,-18.27
+S057,Los Angeles Standard 2,West,Standard,2024,5,21105.64,690,53,0.0768,21039.82,0.31
+S057,Los Angeles Standard 2,West,Standard,2024,6,18210.86,594,33,0.0556,20601.57,-11.6
+S057,Los Angeles Standard 2,West,Standard,2024,7,20741.34,629,34,0.0541,19181.39,8.13
+S057,Los Angeles Standard 2,West,Standard,2024,8,23013.55,742,52,0.0701,21255.3,8.27
+S057,Los Angeles Standard 2,West,Standard,2024,9,22595.87,760,56,0.0737,21094.69,7.12
+S057,Los Angeles Standard 2,West,Standard,2024,10,21962.41,703,40,0.0569,22679.75,-3.16
+S057,Los Angeles Standard 2,West,Standard,2024,11,21995.7,772,48,0.0622,24387.21,-9.81
+S057,Los Angeles Standard 2,West,Standard,2024,12,23040.85,781,64,0.0819,27613.61,-16.56
+S057,Los Angeles Standard 2,West,Standard,2025,1,19200.22,583,51,0.0875,18509.6,3.73
+S057,Los Angeles Standard 2,West,Standard,2025,2,16199.83,553,37,0.0669,15930.29,1.69
+S057,Los Angeles Standard 2,West,Standard,2025,3,18381.95,589,42,0.0713,20201.24,-9.01
+S057,Los Angeles Standard 2,West,Standard,2025,4,19348.01,545,38,0.0697,19991.32,-3.22
+S057,Los Angeles Standard 2,West,Standard,2025,5,23379.01,708,44,0.0621,23478.34,-0.42
+S057,Los Angeles Standard 2,West,Standard,2025,6,20137.66,651,54,0.0829,20180.25,-0.21
+S057,Los Angeles Standard 2,West,Standard,2025,7,18595.7,589,41,0.0696,20570.17,-9.6
+S057,Los Angeles Standard 2,West,Standard,2025,8,19320.96,619,45,0.0727,19970.23,-3.25
+S057,Los Angeles Standard 2,West,Standard,2025,9,17084.03,507,33,0.0651,20879.03,-18.18
+S057,Los Angeles Standard 2,West,Standard,2025,10,21724.77,692,64,0.0925,23183.46,-6.29
+S057,Los Angeles Standard 2,West,Standard,2025,11,25492.83,857,72,0.084,25896.83,-1.56
+S057,Los Angeles Standard 2,West,Standard,2025,12,31335.65,1011,71,0.0702,31518.88,-0.58
+S058,Portland Express 2,West,Express,2024,1,9626.75,295,15,0.0508,14893.76,-35.36
+S058,Portland Express 2,West,Express,2024,2,6061.21,225,13,0.0578,15341.04,-60.49
+S058,Portland Express 2,West,Express,2024,3,6803.2,258,24,0.093,21447.02,-68.28
+S058,Portland Express 2,West,Express,2024,4,11336.97,325,20,0.0615,19542.5,-41.99
+S058,Portland Express 2,West,Express,2024,5,9814.41,297,15,0.0505,21039.82,-53.35
+S058,Portland Express 2,West,Express,2024,6,9499.13,314,30,0.0955,20601.57,-53.89
+S058,Portland Express 2,West,Express,2024,7,12474.0,376,25,0.0665,19181.39,-34.97
+S058,Portland Express 2,West,Express,2024,8,13740.35,434,26,0.0599,21255.3,-35.36
+S058,Portland Express 2,West,Express,2024,9,8939.19,290,20,0.069,21094.69,-57.62
+S058,Portland Express 2,West,Express,2024,10,8956.72,300,19,0.0633,22679.75,-60.51
+S058,Portland Express 2,West,Express,2024,11,10973.56,348,27,0.0776,24387.21,-55.0
+S058,Portland Express 2,West,Express,2024,12,15071.84,458,31,0.0677,27613.61,-45.42
+S058,Portland Express 2,West,Express,2025,1,14916.22,289,24,0.083,18509.6,-19.41
+S058,Portland Express 2,West,Express,2025,2,9103.05,267,16,0.0599,15930.29,-42.86
+S058,Portland Express 2,West,Express,2025,3,10757.26,371,31,0.0836,20201.24,-46.75
+S058,Portland Express 2,West,Express,2025,4,9883.0,325,26,0.08,19991.32,-50.56
+S058,Portland Express 2,West,Express,2025,5,9031.48,287,16,0.0557,23478.34,-61.53
+S058,Portland Express 2,West,Express,2025,6,11649.34,331,17,0.0514,20180.25,-42.27
+S058,Portland Express 2,West,Express,2025,7,8075.35,267,18,0.0674,20570.17,-60.74
+S058,Portland Express 2,West,Express,2025,8,13658.0,376,25,0.0665,19970.23,-31.61
+S058,Portland Express 2,West,Express,2025,9,9366.26,313,22,0.0703,20879.03,-55.14
+S058,Portland Express 2,West,Express,2025,10,14373.99,439,33,0.0752,23183.46,-38.0
+S058,Portland Express 2,West,Express,2025,11,13618.42,424,38,0.0896,25896.83,-47.41
+S058,Portland Express 2,West,Express,2025,12,14800.42,499,37,0.0741,31518.88,-53.04
+S059,Denver Outlet 2,West,Outlet,2024,1,13001.75,406,27,0.0665,14893.76,-12.7
+S059,Denver Outlet 2,West,Outlet,2024,2,15684.01,442,33,0.0747,15341.04,2.24
+S059,Denver Outlet 2,West,Outlet,2024,3,15583.65,481,26,0.0541,21447.02,-27.34
+S059,Denver Outlet 2,West,Outlet,2024,4,20289.2,593,43,0.0725,19542.5,3.82
+S059,Denver Outlet 2,West,Outlet,2024,5,17490.16,513,37,0.0721,21039.82,-16.87
+S059,Denver Outlet 2,West,Outlet,2024,6,19766.54,521,31,0.0595,20601.57,-4.05
+S059,Denver Outlet 2,West,Outlet,2024,7,15513.33,513,56,0.1092,19181.39,-19.12
+S059,Denver Outlet 2,West,Outlet,2024,8,21906.98,593,50,0.0843,21255.3,3.07
+S059,Denver Outlet 2,West,Outlet,2024,9,19853.13,616,49,0.0795,21094.69,-5.89
+S059,Denver Outlet 2,West,Outlet,2024,10,20715.91,630,45,0.0714,22679.75,-8.66
+S059,Denver Outlet 2,West,Outlet,2024,11,23973.01,737,55,0.0746,24387.21,-1.7
+S059,Denver Outlet 2,West,Outlet,2024,12,27093.72,850,69,0.0812,27613.61,-1.88
+S059,Denver Outlet 2,West,Outlet,2025,1,19563.89,542,39,0.072,18509.6,5.7
+S059,Denver Outlet 2,West,Outlet,2025,2,15888.62,503,32,0.0636,15930.29,-0.26
+S059,Denver Outlet 2,West,Outlet,2025,3,18637.22,629,38,0.0604,20201.24,-7.74
+S059,Denver Outlet 2,West,Outlet,2025,4,18090.84,562,38,0.0676,19991.32,-9.51
+S059,Denver Outlet 2,West,Outlet,2025,5,16777.27,521,28,0.0537,23478.34,-28.54
+S059,Denver Outlet 2,West,Outlet,2025,6,14200.83,467,37,0.0792,20180.25,-29.63
+S059,Denver Outlet 2,West,Outlet,2025,7,14789.2,502,47,0.0936,20570.17,-28.1
+S059,Denver Outlet 2,West,Outlet,2025,8,15763.6,523,41,0.0784,19970.23,-21.06
+S059,Denver Outlet 2,West,Outlet,2025,9,19063.94,573,44,0.0768,20879.03,-8.69
+S059,Denver Outlet 2,West,Outlet,2025,10,18917.63,590,49,0.0831,23183.46,-18.4
+S059,Denver Outlet 2,West,Outlet,2025,11,26193.59,911,69,0.0757,25896.83,1.15
+S059,Denver Outlet 2,West,Outlet,2025,12,27023.87,908,60,0.0661,31518.88,-14.26
+S060,San Diego Standard 2,West,Standard,2024,1,14928.92,513,36,0.0702,14893.76,0.24
+S060,San Diego Standard 2,West,Standard,2024,2,14819.4,517,36,0.0696,15341.04,-3.4
+S060,San Diego Standard 2,West,Standard,2024,3,22746.96,743,56,0.0754,21447.02,6.06
+S060,San Diego Standard 2,West,Standard,2024,4,22880.9,690,48,0.0696,19542.5,17.08
+S060,San Diego Standard 2,West,Standard,2024,5,21202.34,634,33,0.0521,21039.82,0.77
+S060,San Diego Standard 2,West,Standard,2024,6,21436.59,670,50,0.0746,20601.57,4.05
+S060,San Diego Standard 2,West,Standard,2024,7,19295.7,667,49,0.0735,19181.39,0.6
+S060,San Diego Standard 2,West,Standard,2024,8,28902.08,770,52,0.0675,21255.3,35.98
+S060,San Diego Standard 2,West,Standard,2024,9,23184.81,716,63,0.088,21094.69,9.91
+S060,San Diego Standard 2,West,Standard,2024,10,25461.2,783,61,0.0779,22679.75,12.26
+S060,San Diego Standard 2,West,Standard,2024,11,28248.67,910,64,0.0703,24387.21,15.83
+S060,San Diego Standard 2,West,Standard,2024,12,32422.79,1077,74,0.0687,27613.61,17.42
+S060,San Diego Standard 2,West,Standard,2025,1,23704.79,743,38,0.0511,18509.6,28.07
+S060,San Diego Standard 2,West,Standard,2025,2,18734.05,622,49,0.0788,15930.29,17.6
+S060,San Diego Standard 2,West,Standard,2025,3,24813.15,812,66,0.0813,20201.24,22.83
+S060,San Diego Standard 2,West,Standard,2025,4,21082.14,633,42,0.0664,19991.32,5.46
+S060,San Diego Standard 2,West,Standard,2025,5,23577.67,735,58,0.0789,23478.34,0.42
+S060,San Diego Standard 2,West,Standard,2025,6,21612.42,714,53,0.0742,20180.25,7.1
+S060,San Diego Standard 2,West,Standard,2025,7,25611.28,787,48,0.061,20570.17,24.51
+S060,San Diego Standard 2,West,Standard,2025,8,24175.23,740,54,0.073,19970.23,21.06
+S060,San Diego Standard 2,West,Standard,2025,9,22522.11,732,59,0.0806,20879.03,7.87
+S060,San Diego Standard 2,West,Standard,2025,10,28121.51,739,48,0.065,23183.46,21.3
+S060,San Diego Standard 2,West,Standard,2025,11,28090.77,928,80,0.0862,25896.83,8.47
+S060,San Diego Standard 2,West,Standard,2025,12,35705.29,1101,70,0.0636,31518.88,13.28
